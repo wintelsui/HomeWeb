@@ -1,5 +1,5 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
-import Home from '../views/Home.vue'
+import Home from '../views/Home/Home.vue'
 
 const routes = [
   {
@@ -10,27 +10,24 @@ const routes = [
   {
     path: '/about',
     name: 'About',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
+    component: () => import('../views/About/About.vue')
   },
   {
     path: '/calendar',
     name: 'Calendar',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/Calendar/Calendar.vue')
+    component: () => import('../views/Calendar/Calendar.vue')
   },
   {
     path: '/colorCard',
     name: 'ColorCard',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/ColorCard/ColorCard.vue')
+    component: () => import('../views/ColorCard/ColorCard.vue')
+  },
+  {
+    path: '/projects',
+    name: 'Projects',
+    component: () => import('../views/Projects/Projects.vue')
   }
+
 ]
 
 const router = createRouter({

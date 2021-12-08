@@ -3,4 +3,6 @@
 </template>
 
 <script src="./_Calendar.js" lang="js"></script>
-<style src="./_Calendar.less" lang="less" scoped></style>
+<style lang="scss" scoped>
+@import "./_Calendar.scss";
+</style>

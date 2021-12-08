@@ -1,0 +1,25 @@
+.Projects {
+  margin: 0px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: flex-start;
+  align-items: center;
+
+  .head-view {
+    width: 100px;
+    height: 100px;
+    background-color: #42b983;
+  }
+
+  .content-view {
+    margin: 0;
+    height: 100%;
+
+    .scroll-view {
+      display: flow;
+      height: 100%;
+    }
+  }
+}
