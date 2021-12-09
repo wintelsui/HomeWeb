@@ -1,13 +1,11 @@
 <template>
     <div class="Projects">
-      <div class="head-view">
-
-      </div>
-      <div class="content-view">
-        <div class="scroll-view">
-            <div style="height: 100px;">
-
-            </div>
+      <div class="base-view">
+        <div class="content-view">
+          <div v-for="(item, index) in [1, 2, 3, 4]" :key="index" style="width: 100px; height: 300px">
+            {{ item }}
+          </div>
+          <img src="../../assets/logo.png" />
         </div>
       </div>
     </div>

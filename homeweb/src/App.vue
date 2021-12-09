@@ -1,18 +1,24 @@
 <template>
-  <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+  <div id="nav" :style="`height:${navHeight}px;`">
+    <Appnavigationbar style="width: 100%; height: 100%"></Appnavigationbar>
   </div>
-  <router-view :style="`height: ${fullHeight - 70}px;`"/>
+  <router-view :style="`height: ${contentViewHeight}px;`"/>
 </template>
 
 
 <script>
+import Appnavigationbar from "@/components/AppNavigationBar/AppNavigationBar";
+
 export default{
+  components: {
+    Appnavigationbar
+  },
   name:"Login",
   data () {
     return {
-      fullHeight: document.documentElement.clientHeight
+      fullHeight: 0,
+      navHeight: 0,
+      contentViewHeight: 0
     }
   },
   watch: {
@@ -26,18 +32,34 @@ export default{
         },400)
       }
 
+      this.contentViewHeight = this.fullHeight - this.navHeight
     }
   },
+  computed: {
+    // contentViewHeight() {
+    //   return this.fullHeight - this.navHeight
+    // }
+  },
   mounted () {
+    this.fullHeight = this.$store.state.screen.height
+    this.navHeight =  this.$store.state.navigationBar.height
+
     this.get_bodyHeight()
   },
   methods :{
     get_bodyHeight () {//动态获取浏览器高度
-      const that = this
+      const weakThis = this
       window.onresize = () => {
         return (() => {
           window.fullHeight = document.documentElement.clientHeight
-          that.fullHeight = window.fullHeight
+          window.fullWidth = document.documentElement.clientWidth
+
+          weakThis.fullHeight = window.fullHeight
+          weakThis.$store.commit({
+            type: 'updateScreen',
+            width : window.fullWidth,
+            height : window.fullHeight
+          })
         })()
       }
     }
