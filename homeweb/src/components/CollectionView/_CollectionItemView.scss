@@ -1,0 +1,126 @@
+.collection-item-view {
+  margin: 10px;
+  box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.1);
+
+  .collection-base-view {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: nowrap;
+
+  .item-icon-view {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+
+    .item-icon {
+      height: 90px;
+      // height: 80%;
+      aspect-ratio: 1;
+      object-fit: contain;
+      border-radius: 10px;
+      border: 0px solid #fff;
+    }
+
+    .item-title-view {
+      height: 100%;
+      margin-left: 10px;
+      display: flex;
+      flex-direction: column;
+      flex-wrap: nowrap;
+      align-content: flex-start;
+      justify-content: space-between;
+      align-items: flex-end;
+
+      .item-title {
+        font-size: 1.4em;
+        font-weight: bold;
+        text-align: right;
+        color: #333;
+      }
+
+      .item-title-open {
+        font-size: 1.2em;
+        font-weight: bold;
+        color: rgb(0, 217, 255);
+        text-transform: uppercase;
+        text-decoration: none;
+        text-align: right;
+      }
+
+      .item-title-download {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+        background-color: rgb(0, 217, 255);
+        border-radius: 8px;
+        border: 0px solid #fff;
+
+
+        .item-title-download-label {
+          font-size: 1em;
+          font-weight: bold;
+          color: #FFFFFF;
+          text-transform: uppercase;
+          text-decoration: none;
+          text-align: center;
+          margin: 20px;
+          margin-top: 5px;
+          margin-bottom: 5px;
+        }
+      }
+      
+    }
+  }
+
+  .item-content-view {
+    width: 100%;
+    display: flex;
+    margin: 0px;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    justify-content: flex-start;
+    align-items: flex-start;
+
+    .item-content-label{
+      margin-top: 10px;
+      display: flex;
+      flex-direction: column;
+      flex-wrap: nowrap;
+      align-content: flex-start;
+      justify-content: flex-start;
+      align-items: flex-start;
+
+      .item-content-label-title{
+        font-size: 1.2em;
+        font-weight: bold;
+        color: #333;
+        text-align: left;
+        text-transform: uppercase;
+        text-decoration: none;
+     }
+
+      .item-content-label-content{
+        font-size: 1em;
+        font-weight: middle;
+        color: #333;
+        text-align: left;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+    }
+  }
+  }
+  
+}

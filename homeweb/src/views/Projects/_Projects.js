@@ -1,11 +1,21 @@
+/*
+ * @Author: your name
+ * @Date: 2021-12-08 17:32:49
+ * @LastEditTime: 2021-12-10 17:02:07
+ * @LastEditors: Please set LastEditors
+ * @Description: 
+ * @FilePath: /homeweb/src/views/Projects/_Projects.js
+ */
 // @vue/component
 // import axios from "axios";
+import CollectionView from '../../components/CollectionView/CollectionView.vue';
 let projectsData = require('../../assets/projects.json')
 export default {
     name: 'Projects',
 
-    components: {},
-
+    components: { 
+        CollectionView
+    },
     mixins: [],
 
     props: {},

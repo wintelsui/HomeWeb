@@ -1,9 +1,125 @@
 {
   "name": "projects",
   "person" : [
-    {"name": "kz", "homepage_ori":  "https://www.www.www", "desc":  "快"}
+    {
+      "name": "快赞",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/13/ab/0d/13ab0d13-ceb7-dc00-216a-b5c3e566b9a9/AppIcon-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/146x0w.webp",
+      "desc": "快赞是一款充满想象力和创造力的本地记事本。无论你是谁，来自哪里，去向何处，都能在这里找到你中意的主题，挥洒你脑海中的画笔。",
+      "duty": "",
+      "download_url": "https://apps.apple.com/cn/app/%E5%BF%AB%E8%B5%9E/id1212355459",
+      "homepage_ori": "",
+      "homepage_current": "https://wintelsui.github.io/pages/WTGLilysFriends/index.html",
+      "platform": 1
+    },
+    {
+      "name": "即刻时间",
+      "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/26/f2/6c/26f26c0e-2467-46e0-43ba-bddd12226466/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/146x0w.webp",
+      "desc": "一款实用的全屏时钟；精美的数字时钟和翻页时钟；想让自己安静下来，专注一些，试一试呼吸吧。",
+      "duty": "",
+      "download_url": "https://apps.apple.com/cn/app/%E5%8D%B3%E5%88%BB%E6%97%B6%E9%97%B4-%E5%A4%A7%E6%97%B6%E9%92%9F/id1512652441",
+      "homepage_ori": "",
+      "homepage_current": "https://wintelsui.github.io/pages/whatstime/index.html",
+      "platform": 3
+    },
+    {
+      "name": "五十音圖",
+      "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/ee/1b/28/ee1b28ad-362c-1e3f-5375-95faef040d19/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/146x0w.webp",
+      "desc": "五十音表，无广告, 平假名，片假名，罗马音, 文字转换罗马音...",
+      "duty": "",
+      "download_url": "https://apps.apple.com/cn/app/%E4%BA%94%E5%8D%81%E9%9F%B3%E5%9C%96pro/id1372554304",
+      "homepage_ori": "",
+      "homepage_current": "https://wintelsui.github.io/pages/WTJapaneseLearn/WuShiYin/index.html",
+      "platform": 3
+    },
+    {
+      "name": "垃圾分类助理",
+      "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/3a/54/94/3a5494f1-e589-7edf-dee1-5d4dd3114992/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/146x0w.webp",
+      "desc": "打开应用就可以查询垃圾分类；不打开应用，在桌面一样能查询垃圾分类。",
+      "duty": "",
+      "download_url": "https://apps.apple.com/cn/app/%E5%9E%83%E5%9C%BE%E5%88%86%E7%B1%BB%E5%8A%A9%E7%90%86/id1472319252",
+      "homepage_ori": "",
+      "homepage_current": "https://wintelsui.github.io/pages/WTLifeAssistantFlutter",
+      "platform": 1
+    },
+    {
+      "name": "画板和书",
+      "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/64/42/65/6442653c-bff6-b898-8f25-2b30136d2254/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/146x0w.webp",
+      "desc": "绘画与书 不断增加绘画教程! 绘画与书 是一本绘画书! 绘画与书 是一个画板!",
+      "duty": "",
+      "download_url": "https://apps.apple.com/cn/app/%E7%94%BB%E6%9D%BF%E5%92%8C%E4%B9%A6/id1440705449",
+      "homepage_ori": "",
+      "homepage_current": "https://supersmalltalk.github.io/project/drawBookHome/index.html",
+      "platform": 1
+    },
+    {
+      "name": "F Browser",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/13/ab/0d/13ab0d13-ceb7-dc00-216a-b5c3e566b9a9/AppIcon-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/146x0w.webp",
+      "desc": "就要清爽的主页; 方便的语音搜索; 强大的广告过滤; 隐私浏览不跟踪; 晚上阅读要变暗;",
+      "duty": "",
+      "download_url": "https://apps.apple.com/cn/app/f-browser/id1480565782",
+      "homepage_ori": "",
+      "homepage_current": "https://wintelsui.github.io/pages/FBrowser",
+      "platform": 1
+    },
+    {
+      "name": "兔图酱",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b9/2c/fd/b92cfdfe-e5ce-bbfd-9d9c-165995768bfa/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/146x0w.webp",
+      "desc": "兔图酱，一个清新可爱，灵活强大的免费拼图制图软件。",
+      "duty": "",
+      "download_url": "https://apps.apple.com/cn/app/%E5%85%94%E5%9B%BE%E9%85%B1-%E9%95%BF%E5%9B%BE%E6%8B%BC%E6%8E%A5%E5%92%8C%E6%8B%BC%E5%9B%BE/id1221819804",
+      "homepage_ori": "",
+      "homepage_current": "https://wintelsui.github.io/pages/WTLilysWMRemover/index.html",
+      "platform": 1
+    },
+    {
+      "name": "房贷计算器",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4d/b8/0c/4db80c9a-dfea-883f-bc17-de1ecec2a849/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp",
+      "desc": "房贷计算器pro版，2020最新，界面清爽，操作便捷，永久免费。买房贷款，提前还贷必备，为您的美好人生精打细算！",
+      "duty": "",
+      "download_url": "https://apps.apple.com/cn/app/%E6%88%BF%E8%B4%B7%E8%AE%A1%E7%AE%97%E5%99%A8-2020%E5%B9%B4%E6%96%B0%E6%95%B0%E6%8D%AE%E7%89%88/id1500734691",
+      "homepage_ori": "",
+      "homepage_current": "https://wintelsui.github.io/pages/LilysMortgageCalculator",
+      "platform": 1
+    },
+    {
+      "name": "MyUtils for Xcode",
+      "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/91/5e/5a/915e5aef-507a-5cb2-ab72-d912bd4f4ca1/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/146x0w.webp",
+      "desc": "Xcode 开发插件工具, 翻译, 随机字符, FFFFFF颜色转换, 枚举生成调用方式...",
+      "duty": "",
+      "download_url": "https://apps.apple.com/cn/app/myutils-for-xcode/id1457192526?mt=12",
+      "homepage_ori": "",
+      "homepage_current": "https://wintelsui.github.io/pages/WTMyUtils/index.html",
+      "platform": 2
+    }
   ],
   "work" : [
-    {"name": "kz", "homepage_ori":  "https://www.www.www", "desc":  "快"}
+    {
+      "name": "个人图书馆",
+      "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/58/66/ca/5866cad7-32bd-d1b7-0e47-d581afa4387d/AppIcon-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/230x0w.webp",
+      "desc": "360doc个人图书馆是分章收藏，书写，分享的平台",
+      "duty": "移动项目开发设计, 原生开发",
+      "download_url": "https://apps.apple.com/cn/app/%E4%B8%AA%E4%BA%BA%E5%9B%BE%E4%B9%A6%E9%A6%86/id616470864",
+      "homepage_ori": "http://www.360doc.com",
+      "homepage_current": "http://www.360doc.com",
+      "platform": 1
+    },{
+      "name": "和飞信",
+      "icon": "https://wintelsui.github.io/images/hefeixinIcon.jpg",
+      "desc": "和飞信是一款由中移互联网公司打造的基础通信服务软件及企业办公解决方案应用",
+      "duty": "联系人模块，应用配置模块，音视频通话模块相关功能开发, 原生开发",
+      "download_url": "",
+      "homepage_ori": "http://www.fetion-portal.com/index.html",
+      "homepage_current": "http://www.fetion-portal.com/index.html",
+      "platform": 1
+    },{
+      "name": "福家享受",
+      "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/27/4b/df/274bdfc3-efe7-cc43-66b7-2bc481ae37a1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp",
+      "desc": "在线投保x理赔服务",
+      "duty": "移动项目开发设计, UNIAPP(VUE) + 原生开发",
+      "download_url": "https://apps.apple.com/cn/app/%E7%A6%8F%E5%AE%B6%E4%BA%AB%E5%8F%97/id1531669972",
+      "homepage_ori": "https://appsystem.hexiehealth.com/h5/index.html",
+      "homepage_current": "https://appsystem.hexiehealth.com/h5/index.html",
+      "platform": 1
+    }
   ]
 }

@@ -16,6 +16,28 @@
       align-content: center;
       justify-content: center;
       align-items: center;
+
+      .content-view-desc {
+        display: flex;    
+        flex-direction: row;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+
+        .content-view-desc-appstore {
+          font-size: 1.4em;
+          font-weight: bold;
+          text-align: center;
+          color: rgb(229, 157, 255);
+          text-decoration: underline;
+
+        }
+      }
+
+      .work-base-view {
+        width: 100%;
+      }
     }
   }
 
