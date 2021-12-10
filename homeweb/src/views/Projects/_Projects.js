@@ -49,6 +49,9 @@ export default {
             //     console.log(res)
             // })
 
+        },
+        openAppStore() {
+            window.open('https://apps.apple.com/cn/developer/wentao-sui/id1212355458');
         }
     }
 }

@@ -11,7 +11,7 @@
       <div class="base-view">
         <div class="content-view">
           <div class="content-view-desc">
-              <div class="content-view-desc-appstore">打开个人 App Store 首页</div>
+              <div class="content-view-desc-appstore" @click="openAppStore">打开个人 App Store 首页</div>
           </div>
           <CollectionView class="work-base-view" v-if="person.length > 0" title="Projects x 个人小项目" :itemList="person" itemWidth=250></CollectionView>
           <div style="width:100%;height:5px;box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.1);"></div>
