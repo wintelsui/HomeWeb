@@ -1,0 +1,37 @@
+.home {
+    display: block;
+    overflow: hidden;
+    background-color: #FFFFFF;
+
+    .base-view {
+        width: 100%;
+        height: 100%;
+        overflow:scroll;
+        overflow-y:scroll;
+        
+        .content-view {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            flex-wrap: nowrap;
+            align-content: center;
+            justify-content: center;
+            align-items: center;
+
+            .top-view-background-image {
+                // position:absolute;
+                width:100%;
+                aspect-ratio: 2100.0/1150.0;
+                background-image: url('https://wintelsui.github.io/images/pic01.jpg');
+                background-repeat: round;
+                
+                display: flex;
+                flex-direction: column;
+                flex-wrap: nowrap;
+                align-content: center;
+                justify-content: center;
+                align-items: center;
+            }
+        }
+    }
+}
