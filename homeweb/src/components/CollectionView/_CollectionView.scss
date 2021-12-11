@@ -23,13 +23,13 @@
   }
 
   .item-base-view {
-    width: 100%;
+    width: 90%;
     display: flex;
     margin: 0px;
     flex-direction: row;
     flex-wrap: wrap;
     align-content: space-around;
-    justify-content: space-around;
-    align-items: center;
+    justify-content: space-between;
+    align-items: flex-end;
   }
 }

@@ -1,8 +1,15 @@
+<!--
+ * @author: wintelsui
+ * @Description: 
+ * @Version: 
+ * @Author: wintelsui
+ * @LastEditors: wintelsui
+-->
 <template>
     <div class="AppNavigationBar">
-      <router-link to="/">Home</router-link>
+      <router-link to="/">首页</router-link>
       <div class="space"> | </div>
-        <router-link to="/projects">Projects</router-link>
+        <router-link to="/projects">项目</router-link>
     </div>
 </template>
 
