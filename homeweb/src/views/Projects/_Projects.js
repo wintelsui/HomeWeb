@@ -9,7 +9,7 @@
 // @vue/component
 // import axios from "axios";
 import CollectionView from '../../components/CollectionView/CollectionView.vue';
-let projectsData = require('../../assets/projects.json')
+let projectsData = require('../../assets/files/projects.json')
 export default {
     name: 'Projects',
 

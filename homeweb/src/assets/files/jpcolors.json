@@ -1,0 +1,3257 @@
+[
+  {
+    "blue" : 255,
+    "red" : 255,
+    "name" : "白",
+    "hex" : "#ffffff",
+    "green" : 255
+  },
+  {
+    "blue" : 252,
+    "red" : 255,
+    "name" : "胡粉色",
+    "hex" : "#fffffc",
+    "green" : 255
+  },
+  {
+    "blue" : 207,
+    "red" : 255,
+    "name" : "鸟の子色",
+    "hex" : "#fff1cf",
+    "green" : 241
+  },
+  {
+    "blue" : 79,
+    "red" : 255,
+    "name" : "黄支子色",
+    "hex" : "#ffdb4f",
+    "green" : 219
+  },
+  {
+    "blue" : 71,
+    "red" : 255,
+    "name" : "菜の花色",
+    "hex" : "#ffec47",
+    "green" : 236
+  },
+  {
+    "blue" : 0,
+    "red" : 255,
+    "name" : "中黄",
+    "hex" : "#ffea00",
+    "green" : 234
+  },
+  {
+    "blue" : 0,
+    "red" : 255,
+    "name" : "蒲公英色",
+    "hex" : "#ffd900",
+    "green" : 217
+  },
+  {
+    "blue" : 0,
+    "red" : 255,
+    "name" : "黄色",
+    "hex" : "#ffd900",
+    "green" : 217
+  },
+  {
+    "blue" : 99,
+    "red" : 254,
+    "name" : "黄檗色",
+    "hex" : "#fef263",
+    "green" : 242
+  },
+  {
+    "blue" : 242,
+    "red" : 253,
+    "name" : "薄桜",
+    "hex" : "#fdeff2",
+    "green" : 239
+  },
+  {
+    "blue" : 208,
+    "red" : 253,
+    "name" : "薄卵色",
+    "hex" : "#fde8d0",
+    "green" : 232
+  },
+  {
+    "blue" : 165,
+    "red" : 253,
+    "name" : "蜂蜜色",
+    "hex" : "#fddea5",
+    "green" : 222
+  },
+  {
+    "blue" : 196,
+    "red" : 252,
+    "name" : "肌色",
+    "hex" : "#fce2c4",
+    "green" : 226
+  },
+  {
+    "blue" : 117,
+    "red" : 252,
+    "name" : "卵色",
+    "hex" : "#fcd575",
+    "green" : 213
+  },
+  {
+    "blue" : 0,
+    "red" : 252,
+    "name" : "向日葵色",
+    "hex" : "#fcc800",
+    "green" : 200
+  },
+  {
+    "blue" : 245,
+    "red" : 251,
+    "name" : "生成り色",
+    "hex" : "#fbfaf5",
+    "green" : 250
+  },
+  {
+    "blue" : 107,
+    "red" : 251,
+    "name" : "花葉色",
+    "hex" : "#fbd26b",
+    "green" : 210
+  },
+  {
+    "blue" : 77,
+    "red" : 251,
+    "name" : "支子色",
+    "hex" : "#fbca4d",
+    "green" : 202
+  },
+  {
+    "blue" : 20,
+    "red" : 250,
+    "name" : "鬱金色",
+    "hex" : "#fabf14",
+    "green" : 191
+  },
+  {
+    "blue" : 155,
+    "red" : 249,
+    "name" : "雄黄",
+    "hex" : "#f9c89b",
+    "green" : 200
+  },
+  {
+    "blue" : 248,
+    "red" : 248,
+    "name" : "白磁",
+    "hex" : "#f8fbf8",
+    "green" : 251
+  },
+  {
+    "blue" : 230,
+    "red" : 248,
+    "name" : "象牙色",
+    "hex" : "#f8f4e6",
+    "green" : 244
+  },
+  {
+    "blue" : 140,
+    "red" : 248,
+    "name" : "淡黄",
+    "hex" : "#f8e58c",
+    "green" : 229
+  },
+  {
+    "blue" : 98,
+    "red" : 248,
+    "name" : "萱草色",
+    "hex" : "#f8b862",
+    "green" : 184
+  },
+  {
+    "blue" : 0,
+    "red" : 248,
+    "name" : "山吹色",
+    "hex" : "#f8b500",
+    "green" : 181
+  },
+  {
+    "blue" : 254,
+    "red" : 247,
+    "name" : "卯の花色",
+    "hex" : "#f7fcfe",
+    "green" : 252
+  },
+  {
+    "blue" : 143,
+    "red" : 247,
+    "name" : "洒落柿",
+    "hex" : "#f7bd8f",
+    "green" : 189
+  },
+  {
+    "blue" : 119,
+    "red" : 247,
+    "name" : "杏色",
+    "hex" : "#f7b977",
+    "green" : 185
+  },
+  {
+    "blue" : 20,
+    "red" : 247,
+    "name" : "藤黄",
+    "hex" : "#f7c114",
+    "green" : 193
+  },
+  {
+    "blue" : 188,
+    "red" : 246,
+    "name" : "虹色",
+    "hex" : "#f6bfbc",
+    "green" : 191
+  },
+  {
+    "blue" : 148,
+    "red" : 246,
+    "name" : "赤香",
+    "hex" : "#f6b894",
+    "green" : 184
+  },
+  {
+    "blue" : 73,
+    "red" : 246,
+    "name" : "柑子色",
+    "hex" : "#f6ad49",
+    "green" : 173
+  },
+  {
+    "blue" : 170,
+    "red" : 245,
+    "name" : "珊瑚色",
+    "hex" : "#f5b1aa",
+    "green" : 177
+  },
+  {
+    "blue" : 153,
+    "red" : 245,
+    "name" : "一斤染",
+    "hex" : "#f5b199",
+    "green" : 177
+  },
+  {
+    "blue" : 107,
+    "red" : 245,
+    "name" : "刈安色",
+    "hex" : "#f5e56b",
+    "green" : 229
+  },
+  {
+    "blue" : 194,
+    "red" : 244,
+    "name" : "鸨色",
+    "hex" : "#f4b3c2",
+    "green" : 179
+  },
+  {
+    "blue" : 165,
+    "red" : 244,
+    "name" : "砥粉色",
+    "hex" : "#f4dda5",
+    "green" : 221
+  },
+  {
+    "blue" : 243,
+    "red" : 243,
+    "name" : "乳白色",
+    "hex" : "#f3f3f3",
+    "green" : 243
+  },
+  {
+    "blue" : 242,
+    "red" : 243,
+    "name" : "白練",
+    "hex" : "#f3f3f2",
+    "green" : 243
+  },
+  {
+    "blue" : 136,
+    "red" : 243,
+    "name" : "淡香",
+    "hex" : "#f3bf88",
+    "green" : 191
+  },
+  {
+    "blue" : 0,
+    "red" : 243,
+    "name" : "金茶",
+    "hex" : "#f39800",
+    "green" : 152
+  },
+  {
+    "blue" : 176,
+    "red" : 242,
+    "name" : "女郎花",
+    "hex" : "#f2f2b0",
+    "green" : 242
+  },
+  {
+    "blue" : 172,
+    "red" : 242,
+    "name" : "洗柿",
+    "hex" : "#f2c9ac",
+    "green" : 201
+  },
+  {
+    "blue" : 161,
+    "red" : 242,
+    "name" : "红梅色",
+    "hex" : "#f2a0a1",
+    "green" : 160
+  },
+  {
+    "blue" : 153,
+    "red" : 241,
+    "name" : "肉色",
+    "hex" : "#f1bf99",
+    "green" : 191
+  },
+  {
+    "blue" : 153,
+    "red" : 241,
+    "name" : "人色",
+    "hex" : "#f1bf99",
+    "green" : 191
+  },
+  {
+    "blue" : 114,
+    "red" : 241,
+    "name" : "东云色",
+    "hex" : "#f19072",
+    "green" : 144
+  },
+  {
+    "blue" : 114,
+    "red" : 241,
+    "name" : "曙色",
+    "hex" : "#f19072",
+    "green" : 144
+  },
+  {
+    "blue" : 160,
+    "red" : 240,
+    "name" : "薄香",
+    "hex" : "#f0cfa0",
+    "green" : 207
+  },
+  {
+    "blue" : 153,
+    "red" : 240,
+    "name" : "桃色",
+    "hex" : "#f09199",
+    "green" : 145
+  },
+  {
+    "blue" : 141,
+    "red" : 240,
+    "name" : "薄红",
+    "hex" : "#f0908d",
+    "green" : 144
+  },
+  {
+    "blue" : 0,
+    "red" : 240,
+    "name" : "蜜柑色",
+    "hex" : "#f08300",
+    "green" : 131
+  },
+  {
+    "blue" : 154,
+    "red" : 239,
+    "name" : "丁子色",
+    "hex" : "#efcd9a",
+    "green" : 205
+  },
+  {
+    "blue" : 154,
+    "red" : 239,
+    "name" : "香色",
+    "hex" : "#efcd9a",
+    "green" : 205
+  },
+  {
+    "blue" : 147,
+    "red" : 239,
+    "name" : "宍色",
+    "hex" : "#efab93",
+    "green" : 171
+  },
+  {
+    "blue" : 203,
+    "red" : 238,
+    "name" : "撫子色",
+    "hex" : "#eebbcb",
+    "green" : 187
+  },
+  {
+    "blue" : 124,
+    "red" : 238,
+    "name" : "甚三红",
+    "hex" : "#ee827c",
+    "green" : 130
+  },
+  {
+    "blue" : 111,
+    "red" : 238,
+    "name" : "珊瑚朱色",
+    "hex" : "#ee836f",
+    "green" : 131
+  },
+  {
+    "blue" : 98,
+    "red" : 238,
+    "name" : "玉蜀黍色",
+    "hex" : "#eec362",
+    "green" : 195
+  },
+  {
+    "blue" : 72,
+    "red" : 238,
+    "name" : "黄丹",
+    "hex" : "#ee7948",
+    "green" : 121
+  },
+  {
+    "blue" : 0,
+    "red" : 238,
+    "name" : "橙色",
+    "hex" : "#ee7800",
+    "green" : 120
+  },
+  {
+    "blue" : 205,
+    "red" : 237,
+    "name" : "练色",
+    "hex" : "#ede4cd",
+    "green" : 228
+  },
+  {
+    "blue" : 169,
+    "red" : 237,
+    "name" : "蒸栗色",
+    "hex" : "#ede1a9",
+    "green" : 225
+  },
+  {
+    "blue" : 161,
+    "red" : 237,
+    "name" : "浅黄",
+    "hex" : "#edd3a1",
+    "green" : 211
+  },
+  {
+    "blue" : 61,
+    "red" : 237,
+    "name" : "柿色",
+    "hex" : "#ed6d3d",
+    "green" : 109
+  },
+  {
+    "blue" : 113,
+    "red" : 236,
+    "name" : "真朱",
+    "hex" : "#ec6d71",
+    "green" : 109
+  },
+  {
+    "blue" : 81,
+    "red" : 236,
+    "name" : "鉛丹色",
+    "hex" : "#ec6d51",
+    "green" : 109
+  },
+  {
+    "blue" : 0,
+    "red" : 236,
+    "name" : "黄赤",
+    "hex" : "#ec6800",
+    "green" : 104
+  },
+  {
+    "blue" : 0,
+    "red" : 236,
+    "name" : "人参色",
+    "hex" : "#ec6800",
+    "green" : 104
+  },
+  {
+    "blue" : 247,
+    "red" : 235,
+    "name" : "藍白",
+    "hex" : "#ebf6f7",
+    "green" : 246
+  },
+  {
+    "blue" : 165,
+    "red" : 235,
+    "name" : "赤紫",
+    "hex" : "#eb6ea5",
+    "green" : 110
+  },
+  {
+    "blue" : 111,
+    "red" : 235,
+    "name" : "深支子",
+    "hex" : "#eb9b6f",
+    "green" : 155
+  },
+  {
+    "blue" : 66,
+    "red" : 235,
+    "name" : "金糸雀色",
+    "hex" : "#ebd842",
+    "green" : 216
+  },
+  {
+    "blue" : 56,
+    "red" : 235,
+    "name" : "照柿",
+    "hex" : "#eb6238",
+    "green" : 98
+  },
+  {
+    "blue" : 1,
+    "red" : 235,
+    "name" : "朱色",
+    "hex" : "#eb6101",
+    "green" : 97
+  },
+  {
+    "blue" : 252,
+    "red" : 234,
+    "name" : "月白",
+    "hex" : "#eaf4fc",
+    "green" : 244
+  },
+  {
+    "blue" : 247,
+    "red" : 234,
+    "name" : "白菫色",
+    "hex" : "#eaedf7",
+    "green" : 237
+  },
+  {
+    "blue" : 227,
+    "red" : 234,
+    "name" : "素色",
+    "hex" : "#eae5e3",
+    "green" : 229
+  },
+  {
+    "blue" : 6,
+    "red" : 234,
+    "name" : "赤橙",
+    "hex" : "#ea5506",
+    "green" : 85
+  },
+  {
+    "blue" : 6,
+    "red" : 234,
+    "name" : "金赤",
+    "hex" : "#ea5506",
+    "green" : 85
+  },
+  {
+    "blue" : 229,
+    "red" : 233,
+    "name" : "桜鼠",
+    "hex" : "#e9dfe5",
+    "green" : 223
+  },
+  {
+    "blue" : 212,
+    "red" : 233,
+    "name" : "灰白色",
+    "hex" : "#e9e4d4",
+    "green" : 228
+  },
+  {
+    "blue" : 149,
+    "red" : 233,
+    "name" : "躑躅色",
+    "hex" : "#e95295",
+    "green" : 82
+  },
+  {
+    "blue" : 107,
+    "red" : 233,
+    "name" : "蔷薇色",
+    "hex" : "#e9546b",
+    "green" : 84
+  },
+  {
+    "blue" : 100,
+    "red" : 233,
+    "name" : "韩红",
+    "hex" : "#e95464",
+    "green" : 84
+  },
+  {
+    "blue" : 239,
+    "red" : 232,
+    "name" : "白花色",
+    "hex" : "#e8ecef",
+    "green" : 236
+  },
+  {
+    "blue" : 209,
+    "red" : 232,
+    "name" : "灰桜",
+    "hex" : "#e8d3d1",
+    "green" : 211
+  },
+  {
+    "blue" : 199,
+    "red" : 232,
+    "name" : "灰梅",
+    "hex" : "#e8d3c7",
+    "green" : 211
+  },
+  {
+    "blue" : 41,
+    "red" : 232,
+    "name" : "红緋",
+    "hex" : "#e83929",
+    "green" : 57
+  },
+  {
+    "blue" : 235,
+    "red" : 231,
+    "name" : "紫水晶",
+    "hex" : "#e7e7eb",
+    "green" : 231
+  },
+  {
+    "blue" : 158,
+    "red" : 231,
+    "name" : "牡丹色",
+    "hex" : "#e7609e",
+    "green" : 96
+  },
+  {
+    "blue" : 227,
+    "red" : 230,
+    "name" : "灰黄緑",
+    "hex" : "#e6eae3",
+    "green" : 234
+  },
+  {
+    "blue" : 227,
+    "red" : 230,
+    "name" : "淡红藤",
+    "hex" : "#e6cde3",
+    "green" : 205
+  },
+  {
+    "blue" : 51,
+    "red" : 230,
+    "name" : "赤",
+    "hex" : "#e60033",
+    "green" : 0
+  },
+  {
+    "blue" : 34,
+    "red" : 230,
+    "name" : "金色",
+    "hex" : "#e6b422",
+    "green" : 180
+  },
+  {
+    "blue" : 34,
+    "red" : 230,
+    "name" : "黄金",
+    "hex" : "#e6b422",
+    "green" : 180
+  },
+  {
+    "blue" : 230,
+    "red" : 229,
+    "name" : "白梅鼠",
+    "hex" : "#e5e4e6",
+    "green" : 228
+  },
+  {
+    "blue" : 190,
+    "red" : 229,
+    "name" : "石竹色",
+    "hex" : "#e5abbe",
+    "green" : 171
+  },
+  {
+    "blue" : 178,
+    "red" : 229,
+    "name" : "薄红梅",
+    "hex" : "#e597b2",
+    "green" : 151
+  },
+  {
+    "blue" : 216,
+    "red" : 228,
+    "name" : "鸨鼠",
+    "hex" : "#e4d2d8",
+    "green" : 210
+  },
+  {
+    "blue" : 155,
+    "red" : 228,
+    "name" : "水柿",
+    "hex" : "#e4ab9b",
+    "green" : 171
+  },
+  {
+    "blue" : 138,
+    "red" : 228,
+    "name" : "枯草色",
+    "hex" : "#e4dc8a",
+    "green" : 220
+  },
+  {
+    "blue" : 97,
+    "red" : 228,
+    "name" : "小麦色",
+    "hex" : "#e49e61",
+    "green" : 158
+  },
+  {
+    "blue" : 50,
+    "red" : 228,
+    "name" : "丹色",
+    "hex" : "#e45e32",
+    "green" : 94
+  },
+  {
+    "blue" : 27,
+    "red" : 226,
+    "name" : "猩緋",
+    "hex" : "#e2041b",
+    "green" : 4
+  },
+  {
+    "blue" : 180,
+    "red" : 225,
+    "name" : "桃花色",
+    "hex" : "#e198b4",
+    "green" : 152
+  },
+  {
+    "blue" : 52,
+    "red" : 225,
+    "name" : "黄茶",
+    "hex" : "#e17b34",
+    "green" : 123
+  },
+  {
+    "blue" : 175,
+    "red" : 224,
+    "name" : "若芽色",
+    "hex" : "#e0ebaf",
+    "green" : 235
+  },
+  {
+    "blue" : 140,
+    "red" : 224,
+    "name" : "枯色",
+    "hex" : "#e0c38c",
+    "green" : 195
+  },
+  {
+    "blue" : 135,
+    "red" : 224,
+    "name" : "ときがら茶",
+    "hex" : "#e09e87",
+    "green" : 158
+  },
+  {
+    "blue" : 94,
+    "red" : 224,
+    "name" : "纁",
+    "hex" : "#e0815e",
+    "green" : 129
+  },
+  {
+    "blue" : 99,
+    "red" : 223,
+    "name" : "浅绯",
+    "hex" : "#df7163",
+    "green" : 113
+  },
+  {
+    "blue" : 104,
+    "red" : 222,
+    "name" : "饴色",
+    "hex" : "#deb068",
+    "green" : 176
+  },
+  {
+    "blue" : 214,
+    "red" : 221,
+    "name" : "絹鼠",
+    "hex" : "#dddcd6",
+    "green" : 220
+  },
+  {
+    "blue" : 153,
+    "red" : 221,
+    "name" : "白茶",
+    "hex" : "#ddbb99",
+    "green" : 187
+  },
+  {
+    "blue" : 86,
+    "red" : 221,
+    "name" : "肉桂色",
+    "hex" : "#dd7a56",
+    "green" : 122
+  },
+  {
+    "blue" : 221,
+    "red" : 220,
+    "name" : "白鼠",
+    "hex" : "#dcdddd",
+    "green" : 221
+  },
+  {
+    "blue" : 217,
+    "red" : 220,
+    "name" : "薄梅鼠",
+    "hex" : "#dcd6d9",
+    "green" : 214
+  },
+  {
+    "blue" : 178,
+    "red" : 220,
+    "name" : "砂色",
+    "hex" : "#dcd3b2",
+    "green" : 211
+  },
+  {
+    "blue" : 24,
+    "red" : 220,
+    "name" : "緑黄色",
+    "hex" : "#dccb18",
+    "green" : 203
+  },
+  {
+    "blue" : 230,
+    "red" : 219,
+    "name" : "白藤色",
+    "hex" : "#dbd0e6",
+    "green" : 208
+  },
+  {
+    "blue" : 73,
+    "red" : 219,
+    "name" : "赤朽葉色",
+    "hex" : "#db8449",
+    "green" : 132
+  },
+  {
+    "blue" : 63,
+    "red" : 217,
+    "name" : "红赤",
+    "hex" : "#d9333f",
+    "green" : 51
+  },
+  {
+    "blue" : 46,
+    "red" : 217,
+    "name" : "櫨染",
+    "hex" : "#d9a62e",
+    "green" : 166
+  },
+  {
+    "blue" : 152,
+    "red" : 216,
+    "name" : "若菜色",
+    "hex" : "#d8e698",
+    "green" : 230
+  },
+  {
+    "blue" : 115,
+    "red" : 216,
+    "name" : "伽羅色",
+    "hex" : "#d8a373",
+    "green" : 163
+  },
+  {
+    "blue" : 140,
+    "red" : 215,
+    "name" : "赤白橡",
+    "hex" : "#d7a98c",
+    "green" : 169
+  },
+  {
+    "blue" : 58,
+    "red" : 215,
+    "name" : "鶸色",
+    "hex" : "#d7cf3a",
+    "green" : 207
+  },
+  {
+    "blue" : 58,
+    "red" : 215,
+    "name" : "红",
+    "hex" : "#d7003a",
+    "green" : 0
+  },
+  {
+    "blue" : 202,
+    "red" : 214,
+    "name" : "白緑",
+    "hex" : "#d6e9ca",
+    "green" : 233
+  },
+  {
+    "blue" : 175,
+    "red" : 214,
+    "name" : "亜麻色",
+    "hex" : "#d6c6af",
+    "green" : 198
+  },
+  {
+    "blue" : 144,
+    "red" : 214,
+    "name" : "退红",
+    "hex" : "#d69090",
+    "green" : 144
+  },
+  {
+    "blue" : 53,
+    "red" : 214,
+    "name" : "黄櫨染",
+    "hex" : "#d66a35",
+    "green" : 106
+  },
+  {
+    "blue" : 107,
+    "red" : 213,
+    "name" : "真赭",
+    "hex" : "#d57c6b",
+    "green" : 124
+  },
+  {
+    "blue" : 218,
+    "red" : 212,
+    "name" : "薄雲鼠",
+    "hex" : "#d4dcda",
+    "green" : 220
+  },
+  {
+    "blue" : 214,
+    "red" : 212,
+    "name" : "蕎麦切色",
+    "hex" : "#d4dcd6",
+    "green" : 220
+  },
+  {
+    "blue" : 173,
+    "red" : 212,
+    "name" : "薄柿",
+    "hex" : "#d4acad",
+    "green" : 172
+  },
+  {
+    "blue" : 217,
+    "red" : 211,
+    "name" : "暁鼠",
+    "hex" : "#d3cfd9",
+    "green" : 207
+  },
+  {
+    "blue" : 214,
+    "red" : 211,
+    "name" : "牡丹鼠",
+    "hex" : "#d3ccd6",
+    "green" : 204
+  },
+  {
+    "blue" : 198,
+    "red" : 211,
+    "name" : "枯野色",
+    "hex" : "#d3cbc6",
+    "green" : 203
+  },
+  {
+    "blue" : 67,
+    "red" : 211,
+    "name" : "黄朽葉色",
+    "hex" : "#d3a243",
+    "green" : 162
+  },
+  {
+    "blue" : 28,
+    "red" : 211,
+    "name" : "绯色",
+    "hex" : "#d3381c",
+    "green" : 56
+  },
+  {
+    "blue" : 108,
+    "red" : 208,
+    "name" : "洗朱",
+    "hex" : "#d0826c",
+    "green" : 130
+  },
+  {
+    "blue" : 107,
+    "red" : 208,
+    "name" : "今样色",
+    "hex" : "#d0576b",
+    "green" : 87
+  },
+  {
+    "blue" : 76,
+    "red" : 208,
+    "name" : "芥子色",
+    "hex" : "#d0af4c",
+    "green" : 175
+  },
+  {
+    "blue" : 174,
+    "red" : 206,
+    "name" : "夏虫色",
+    "hex" : "#cee4ae",
+    "green" : 228
+  },
+  {
+    "blue" : 66,
+    "red" : 206,
+    "name" : "赤丹",
+    "hex" : "#ce5242",
+    "green" : 82
+  },
+  {
+    "blue" : 92,
+    "red" : 205,
+    "name" : "江戸茶",
+    "hex" : "#cd8c5c",
+    "green" : 140
+  },
+  {
+    "blue" : 60,
+    "red" : 205,
+    "name" : "樺色",
+    "hex" : "#cd5e3c",
+    "green" : 94
+  },
+  {
+    "blue" : 191,
+    "red" : 204,
+    "name" : "紅藤色",
+    "hex" : "#cca6bf",
+    "green" : 166
+  },
+  {
+    "blue" : 177,
+    "red" : 204,
+    "name" : "菖蒲色",
+    "hex" : "#cc7eb1",
+    "green" : 126
+  },
+  {
+    "blue" : 148,
+    "red" : 203,
+    "name" : "白橡",
+    "hex" : "#cbb994",
+    "green" : 185
+  },
+  {
+    "blue" : 71,
+    "red" : 203,
+    "name" : "紅鬱金",
+    "hex" : "#cb8347",
+    "green" : 131
+  },
+  {
+    "blue" : 105,
+    "red" : 202,
+    "name" : "遠州茶",
+    "hex" : "#ca8269",
+    "green" : 130
+  },
+  {
+    "blue" : 134,
+    "red" : 201,
+    "name" : "长春色",
+    "hex" : "#c97586",
+    "green" : 117
+  },
+  {
+    "blue" : 30,
+    "red" : 201,
+    "name" : "深緋",
+    "hex" : "#c9171e",
+    "green" : 23
+  },
+  {
+    "blue" : 198,
+    "red" : 200,
+    "name" : "霞色",
+    "hex" : "#c8c2c6",
+    "green" : 194
+  },
+  {
+    "blue" : 190,
+    "red" : 200,
+    "name" : "潤色",
+    "hex" : "#c8c2be",
+    "green" : 194
+  },
+  {
+    "blue" : 187,
+    "red" : 200,
+    "name" : "柳鼠",
+    "hex" : "#c8d5bb",
+    "green" : 213
+  },
+  {
+    "blue" : 121,
+    "red" : 200,
+    "name" : "中红",
+    "hex" : "#c85179",
+    "green" : 81
+  },
+  {
+    "blue" : 84,
+    "red" : 200,
+    "name" : "银朱",
+    "hex" : "#c85554",
+    "green" : 85
+  },
+  {
+    "blue" : 50,
+    "red" : 200,
+    "name" : "山吹茶",
+    "hex" : "#c89932",
+    "green" : 153
+  },
+  {
+    "blue" : 112,
+    "red" : 199,
+    "name" : "木蘭色",
+    "hex" : "#c7b370",
+    "green" : 179
+  },
+  {
+    "blue" : 104,
+    "red" : 199,
+    "name" : "若苗色",
+    "hex" : "#c7dc68",
+    "green" : 220
+  },
+  {
+    "blue" : 106,
+    "red" : 197,
+    "name" : "抹茶色",
+    "hex" : "#c5c56a",
+    "green" : 197
+  },
+  {
+    "blue" : 67,
+    "red" : 197,
+    "name" : "赤红",
+    "hex" : "#c53d43",
+    "green" : 61
+  },
+  {
+    "blue" : 191,
+    "red" : 196,
+    "name" : "浅紫",
+    "hex" : "#c4a3bf",
+    "green" : 163
+  },
+  {
+    "blue" : 84,
+    "red" : 195,
+    "name" : "土器色",
+    "hex" : "#c37854",
+    "green" : 120
+  },
+  {
+    "blue" : 67,
+    "red" : 195,
+    "name" : "黄土色",
+    "hex" : "#c39143",
+    "green" : 145
+  },
+  {
+    "blue" : 67,
+    "red" : 195,
+    "name" : "狐色",
+    "hex" : "#c38743",
+    "green" : 135
+  },
+  {
+    "blue" : 37,
+    "red" : 195,
+    "name" : "若草色",
+    "hex" : "#c3d825",
+    "green" : 216
+  },
+  {
+    "blue" : 233,
+    "red" : 193,
+    "name" : "白藍",
+    "hex" : "#c1e4e9",
+    "green" : 228
+  },
+  {
+    "blue" : 172,
+    "red" : 193,
+    "name" : "裏葉柳",
+    "hex" : "#c1d8ac",
+    "green" : 216
+  },
+  {
+    "blue" : 201,
+    "red" : 192,
+    "name" : "灰青",
+    "hex" : "#c0c6c9",
+    "green" : 198
+  },
+  {
+    "blue" : 199,
+    "red" : 192,
+    "name" : "薄葡萄",
+    "hex" : "#c0a2c7",
+    "green" : 162
+  },
+  {
+    "blue" : 160,
+    "red" : 192,
+    "name" : "梅鼠",
+    "hex" : "#c099a0",
+    "green" : 153
+  },
+  {
+    "blue" : 111,
+    "red" : 191,
+    "name" : "榛色",
+    "hex" : "#bfa46f",
+    "green" : 164
+  },
+  {
+    "blue" : 78,
+    "red" : 191,
+    "name" : "骆驼色",
+    "hex" : "#bf794e",
+    "green" : 121
+  },
+  {
+    "blue" : 58,
+    "red" : 191,
+    "name" : "琥珀色",
+    "hex" : "#bf783a",
+    "green" : 120
+  },
+  {
+    "blue" : 42,
+    "red" : 191,
+    "name" : "桜色",
+    "hex" : "#bf242a",
+    "green" : 36
+  },
+  {
+    "blue" : 202,
+    "red" : 190,
+    "name" : "千草鼠",
+    "hex" : "#bed3ca",
+    "green" : 211
+  },
+  {
+    "blue" : 195,
+    "red" : 190,
+    "name" : "青磁鼠",
+    "hex" : "#bed2c3",
+    "green" : 210
+  },
+  {
+    "blue" : 232,
+    "red" : 188,
+    "name" : "水色",
+    "hex" : "#bce2e8",
+    "green" : 226
+  },
+  {
+    "blue" : 164,
+    "red" : 188,
+    "name" : "若紫",
+    "hex" : "#bc64a4",
+    "green" : 100
+  },
+  {
+    "blue" : 60,
+    "red" : 188,
+    "name" : "土色",
+    "hex" : "#bc763c",
+    "green" : 118
+  },
+  {
+    "blue" : 230,
+    "red" : 187,
+    "name" : "淡藤色",
+    "hex" : "#bbc8e6",
+    "green" : 200
+  },
+  {
+    "blue" : 222,
+    "red" : 187,
+    "name" : "藤色",
+    "hex" : "#bbbcde",
+    "green" : 188
+  },
+  {
+    "blue" : 72,
+    "red" : 187,
+    "name" : "红桦色",
+    "hex" : "#bb5548",
+    "green" : 85
+  },
+  {
+    "blue" : 53,
+    "red" : 187,
+    "name" : "赤茶",
+    "hex" : "#bb5535",
+    "green" : 85
+  },
+  {
+    "blue" : 32,
+    "red" : 187,
+    "name" : "代赭",
+    "hex" : "#bb5520",
+    "green" : 85
+  },
+  {
+    "blue" : 173,
+    "red" : 186,
+    "name" : "薄萌葱",
+    "hex" : "#badcad",
+    "green" : 220
+  },
+  {
+    "blue" : 54,
+    "red" : 186,
+    "name" : "朱緋",
+    "hex" : "#ba2636",
+    "green" : 38
+  },
+  {
+    "blue" : 139,
+    "red" : 185,
+    "name" : "若葉色",
+    "hex" : "#b9d08b",
+    "green" : 208
+  },
+  {
+    "blue" : 71,
+    "red" : 185,
+    "name" : "胭脂",
+    "hex" : "#b94047",
+    "green" : 64
+  },
+  {
+    "blue" : 70,
+    "red" : 185,
+    "name" : "黄唐色",
+    "hex" : "#b98c46",
+    "green" : 140
+  },
+  {
+    "blue" : 132,
+    "red" : 184,
+    "name" : "鸨浅葱",
+    "hex" : "#b88884",
+    "green" : 136
+  },
+  {
+    "blue" : 0,
+    "red" : 184,
+    "name" : "黄緑",
+    "hex" : "#b8d200",
+    "green" : 210
+  },
+  {
+    "blue" : 91,
+    "red" : 183,
+    "name" : "桑染",
+    "hex" : "#b79b5b",
+    "green" : 155
+  },
+  {
+    "blue" : 87,
+    "red" : 183,
+    "name" : "栌色",
+    "hex" : "#b77b57",
+    "green" : 123
+  },
+  {
+    "blue" : 46,
+    "red" : 183,
+    "name" : "茜色",
+    "hex" : "#b7282e",
+    "green" : 40
+  },
+  {
+    "blue" : 76,
+    "red" : 182,
+    "name" : "黄橡",
+    "hex" : "#b68d4c",
+    "green" : 141
+  },
+  {
+    "blue" : 51,
+    "red" : 181,
+    "name" : "煉瓦色",
+    "hex" : "#b55233",
+    "green" : 82
+  },
+  {
+    "blue" : 151,
+    "red" : 180,
+    "name" : "紅紫",
+    "hex" : "#b44c97",
+    "green" : 76
+  },
+  {
+    "blue" : 118,
+    "red" : 180,
+    "name" : "梅染",
+    "hex" : "#b48a76",
+    "green" : 138
+  },
+  {
+    "blue" : 107,
+    "red" : 180,
+    "name" : "丁子茶",
+    "hex" : "#b4866b",
+    "green" : 134
+  },
+  {
+    "blue" : 160,
+    "red" : 179,
+    "name" : "利休白茶",
+    "hex" : "#b3ada0",
+    "green" : 173
+  },
+  {
+    "blue" : 110,
+    "red" : 178,
+    "name" : "柴染",
+    "hex" : "#b28c6e",
+    "green" : 140
+  },
+  {
+    "blue" : 113,
+    "red" : 176,
+    "name" : "苗色",
+    "hex" : "#b0ca71",
+    "green" : 202
+  },
+  {
+    "blue" : 176,
+    "red" : 175,
+    "name" : "銀鼠",
+    "hex" : "#afafb0",
+    "green" : 175
+  },
+  {
+    "blue" : 88,
+    "red" : 174,
+    "name" : "焦香",
+    "hex" : "#ae7c58",
+    "green" : 124
+  },
+  {
+    "blue" : 79,
+    "red" : 174,
+    "name" : "枇杷茶",
+    "hex" : "#ae7c4f",
+    "green" : 124
+  },
+  {
+    "blue" : 173,
+    "red" : 173,
+    "name" : "薄鈍",
+    "hex" : "#adadad",
+    "green" : 173
+  },
+  {
+    "blue" : 80,
+    "red" : 173,
+    "name" : "青朽葉",
+    "hex" : "#ada250",
+    "green" : 162
+  },
+  {
+    "blue" : 78,
+    "red" : 173,
+    "name" : "芝翫茶",
+    "hex" : "#ad7e4e",
+    "green" : 126
+  },
+  {
+    "blue" : 76,
+    "red" : 173,
+    "name" : "丁字染",
+    "hex" : "#ad7d4c",
+    "green" : 125
+  },
+  {
+    "blue" : 76,
+    "red" : 173,
+    "name" : "香染",
+    "hex" : "#ad7d4c",
+    "green" : 125
+  },
+  {
+    "blue" : 216,
+    "red" : 171,
+    "name" : "秘色色",
+    "hex" : "#abced8",
+    "green" : 206
+  },
+  {
+    "blue" : 83,
+    "red" : 171,
+    "name" : "赭",
+    "hex" : "#ab6953",
+    "green" : 105
+  },
+  {
+    "blue" : 143,
+    "red" : 170,
+    "name" : "梅紫",
+    "hex" : "#aa4c8f",
+    "green" : 76
+  },
+  {
+    "blue" : 83,
+    "red" : 170,
+    "name" : "萌黄",
+    "hex" : "#aacf53",
+    "green" : 207
+  },
+  {
+    "blue" : 55,
+    "red" : 170,
+    "name" : "雀茶",
+    "hex" : "#aa4f37",
+    "green" : 79
+  },
+  {
+    "blue" : 147,
+    "red" : 169,
+    "name" : "茶鼠",
+    "hex" : "#a99e93",
+    "green" : 158
+  },
+  {
+    "blue" : 172,
+    "red" : 168,
+    "name" : "薄色",
+    "hex" : "#a89dac",
+    "green" : 157
+  },
+  {
+    "blue" : 147,
+    "red" : 168,
+    "name" : "山葵色",
+    "hex" : "#a8bf93",
+    "green" : 191
+  },
+  {
+    "blue" : 127,
+    "red" : 168,
+    "name" : "柳色",
+    "hex" : "#a8c97f",
+    "green" : 201
+  },
+  {
+    "blue" : 101,
+    "red" : 168,
+    "name" : "苏芳香",
+    "hex" : "#a86965",
+    "green" : 105
+  },
+  {
+    "blue" : 76,
+    "red" : 168,
+    "name" : "胡桃色",
+    "hex" : "#a86f4c",
+    "green" : 111
+  },
+  {
+    "blue" : 54,
+    "red" : 167,
+    "name" : "深海老茶",
+    "hex" : "#a73836",
+    "green" : 56
+  },
+  {
+    "blue" : 196,
+    "red" : 166,
+    "name" : "藤鼠",
+    "hex" : "#a6a5c4",
+    "green" : 165
+  },
+  {
+    "blue" : 189,
+    "red" : 166,
+    "name" : "半色",
+    "hex" : "#a69abd",
+    "green" : 154
+  },
+  {
+    "blue" : 178,
+    "red" : 166,
+    "name" : "錆青磁",
+    "hex" : "#a6c8b2",
+    "green" : 200
+  },
+  {
+    "blue" : 37,
+    "red" : 166,
+    "name" : "菜種油色",
+    "hex" : "#a69425",
+    "green" : 148
+  },
+  {
+    "blue" : 202,
+    "red" : 165,
+    "name" : "藤紫",
+    "hex" : "#a59aca",
+    "green" : 154
+  },
+  {
+    "blue" : 134,
+    "red" : 165,
+    "name" : "胡桃染",
+    "hex" : "#a58f86",
+    "green" : 143
+  },
+  {
+    "blue" : 100,
+    "red" : 165,
+    "name" : "利休茶",
+    "hex" : "#a59564",
+    "green" : 149
+  },
+  {
+    "blue" : 162,
+    "red" : 163,
+    "name" : "薄墨色",
+    "hex" : "#a3a3a2",
+    "green" : 163
+  },
+  {
+    "blue" : 221,
+    "red" : 162,
+    "name" : "瓶覗",
+    "hex" : "#a2d7dd",
+    "green" : 215
+  },
+  {
+    "blue" : 104,
+    "red" : 162,
+    "name" : "浅苏芳",
+    "hex" : "#a25768",
+    "green" : 87
+  },
+  {
+    "blue" : 65,
+    "red" : 162,
+    "name" : "真红",
+    "hex" : "#a22041",
+    "green" : 32
+  },
+  {
+    "blue" : 65,
+    "red" : 162,
+    "name" : "浓红",
+    "hex" : "#a22041",
+    "green" : 32
+  },
+  {
+    "blue" : 109,
+    "red" : 161,
+    "name" : "柳茶",
+    "hex" : "#a1a46d",
+    "green" : 164
+  },
+  {
+    "blue" : 97,
+    "red" : 161,
+    "name" : "油色",
+    "hex" : "#a19361",
+    "green" : 147
+  },
+  {
+    "blue" : 93,
+    "red" : 161,
+    "name" : "宗伝唐茶",
+    "hex" : "#a16d5d",
+    "green" : 109
+  },
+  {
+    "blue" : 239,
+    "red" : 160,
+    "name" : "空色",
+    "hex" : "#a0d8ef",
+    "green" : 216
+  },
+  {
+    "blue" : 160,
+    "red" : 159,
+    "name" : "素鼠",
+    "hex" : "#9fa0a0",
+    "green" : 160
+  },
+  {
+    "blue" : 85,
+    "red" : 159,
+    "name" : "砺茶",
+    "hex" : "#9f6f55",
+    "green" : 111
+  },
+  {
+    "blue" : 58,
+    "red" : 159,
+    "name" : "団十郎茶",
+    "hex" : "#9f563a",
+    "green" : 86
+  },
+  {
+    "blue" : 58,
+    "red" : 159,
+    "name" : "柿渋色",
+    "hex" : "#9f563a",
+    "green" : 86
+  },
+  {
+    "blue" : 163,
+    "red" : 158,
+    "name" : "錫色",
+    "hex" : "#9ea1a3",
+    "green" : 161
+  },
+  {
+    "blue" : 142,
+    "red" : 158,
+    "name" : "鳩羽鼠",
+    "hex" : "#9e8b8e",
+    "green" : 139
+  },
+  {
+    "blue" : 120,
+    "red" : 158,
+    "name" : "灰汁色",
+    "hex" : "#9e9478",
+    "green" : 148
+  },
+  {
+    "blue" : 63,
+    "red" : 158,
+    "name" : "苏芳",
+    "hex" : "#9e3d3f",
+    "green" : 61
+  },
+  {
+    "blue" : 139,
+    "red" : 157,
+    "name" : "京紫",
+    "hex" : "#9d5b8b",
+    "green" : 91
+  },
+  {
+    "blue" : 108,
+    "red" : 157,
+    "name" : "空五倍子色",
+    "hex" : "#9d896c",
+    "green" : 137
+  },
+  {
+    "blue" : 141,
+    "red" : 155,
+    "name" : "青白橡",
+    "hex" : "#9ba88d",
+    "green" : 168
+  },
+  {
+    "blue" : 63,
+    "red" : 154,
+    "name" : "紅鳶",
+    "hex" : "#9a493f",
+    "green" : 73
+  },
+  {
+    "blue" : 78,
+    "red" : 153,
+    "name" : "青丹",
+    "hex" : "#99ab4e",
+    "green" : 171
+  },
+  {
+    "blue" : 142,
+    "red" : 152,
+    "name" : "若緑",
+    "hex" : "#98d98e",
+    "green" : 217
+  },
+  {
+    "blue" : 60,
+    "red" : 152,
+    "name" : "灰茶",
+    "hex" : "#98623c",
+    "green" : 98
+  },
+  {
+    "blue" : 164,
+    "red" : 151,
+    "name" : "薄鼠",
+    "hex" : "#9790a4",
+    "green" : 144
+  },
+  {
+    "blue" : 145,
+    "red" : 151,
+    "name" : "深川鼠",
+    "hex" : "#97a791",
+    "green" : 167
+  },
+  {
+    "blue" : 77,
+    "red" : 150,
+    "name" : "小豆色",
+    "hex" : "#96514d",
+    "green" : 81
+  },
+  {
+    "blue" : 66,
+    "red" : 150,
+    "name" : "茶色",
+    "hex" : "#965042",
+    "green" : 80
+  },
+  {
+    "blue" : 54,
+    "red" : 150,
+    "name" : "檜皮色",
+    "hex" : "#965036",
+    "green" : 80
+  },
+  {
+    "blue" : 156,
+    "red" : 149,
+    "name" : "鳩羽色",
+    "hex" : "#95859c",
+    "green" : 133
+  },
+  {
+    "blue" : 154,
+    "red" : 149,
+    "name" : "桔梗鼠",
+    "hex" : "#95949a",
+    "green" : 148
+  },
+  {
+    "blue" : 63,
+    "red" : 149,
+    "name" : "鳶色",
+    "hex" : "#95483f",
+    "green" : 72
+  },
+  {
+    "blue" : 42,
+    "red" : 149,
+    "name" : "柿茶",
+    "hex" : "#954e2a",
+    "green" : 78
+  },
+  {
+    "blue" : 41,
+    "red" : 149,
+    "name" : "桑茶",
+    "hex" : "#956f29",
+    "green" : 111
+  },
+  {
+    "blue" : 149,
+    "red" : 148,
+    "name" : "鼠色",
+    "hex" : "#949495",
+    "green" : 148
+  },
+  {
+    "blue" : 106,
+    "red" : 148,
+    "name" : "生壁色",
+    "hex" : "#94846a",
+    "green" : 132
+  },
+  {
+    "blue" : 67,
+    "red" : 148,
+    "name" : "渋纸色",
+    "hex" : "#946243",
+    "green" : 98
+  },
+  {
+    "blue" : 156,
+    "red" : 147,
+    "name" : "薄青",
+    "hex" : "#93b69c",
+    "green" : 182
+  },
+  {
+    "blue" : 129,
+    "red" : 147,
+    "name" : "柳染",
+    "hex" : "#93b881",
+    "green" : 184
+  },
+  {
+    "blue" : 118,
+    "red" : 147,
+    "name" : "淡萌黄",
+    "hex" : "#93ca76",
+    "green" : 202
+  },
+  {
+    "blue" : 75,
+    "red" : 147,
+    "name" : "根岸色",
+    "hex" : "#938b4b",
+    "green" : 139
+  },
+  {
+    "blue" : 169,
+    "red" : 146,
+    "name" : "千草色",
+    "hex" : "#92b5a9",
+    "green" : 181
+  },
+  {
+    "blue" : 120,
+    "red" : 146,
+    "name" : "江戸鼠",
+    "hex" : "#928178",
+    "green" : 129
+  },
+  {
+    "blue" : 54,
+    "red" : 146,
+    "name" : "鶯色",
+    "hex" : "#928c36",
+    "green" : 140
+  },
+  {
+    "blue" : 139,
+    "red" : 145,
+    "name" : "二藍",
+    "hex" : "#915c8b",
+    "green" : 92
+  },
+  {
+    "blue" : 84,
+    "red" : 145,
+    "name" : "黄海松茶",
+    "hex" : "#918754",
+    "green" : 135
+  },
+  {
+    "blue" : 71,
+    "red" : 145,
+    "name" : "朽葉色",
+    "hex" : "#917347",
+    "green" : 115
+  },
+  {
+    "blue" : 173,
+    "red" : 144,
+    "name" : "竜胆色",
+    "hex" : "#9079ad",
+    "green" : 121
+  },
+  {
+    "blue" : 103,
+    "red" : 143,
+    "name" : "利休色",
+    "hex" : "#8f8667",
+    "green" : 134
+  },
+  {
+    "blue" : 20,
+    "red" : 143,
+    "name" : "弁柄色",
+    "hex" : "#8f2e14",
+    "green" : 46
+  },
+  {
+    "blue" : 73,
+    "red" : 141,
+    "name" : "枯茶",
+    "hex" : "#8d6449",
+    "green" : 100
+  },
+  {
+    "blue" : 97,
+    "red" : 140,
+    "name" : "鶸茶",
+    "hex" : "#8c8861",
+    "green" : 136
+  },
+  {
+    "blue" : 80,
+    "red" : 140,
+    "name" : "煎茶色",
+    "hex" : "#8c6450",
+    "green" : 100
+  },
+  {
+    "blue" : 66,
+    "red" : 140,
+    "name" : "路考茶",
+    "hex" : "#8c7042",
+    "green" : 112
+  },
+  {
+    "blue" : 141,
+    "red" : 139,
+    "name" : "豆がら茶",
+    "hex" : "#8b968d",
+    "green" : 150
+  },
+  {
+    "blue" : 25,
+    "red" : 138,
+    "name" : "赤錆色",
+    "hex" : "#8a3319",
+    "green" : 51
+  },
+  {
+    "blue" : 0,
+    "red" : 138,
+    "name" : "褐色",
+    "hex" : "#8a3b00",
+    "green" : 59
+  },
+  {
+    "blue" : 235,
+    "red" : 137,
+    "name" : "勿忘草色",
+    "hex" : "#89c3eb",
+    "green" : 195
+  },
+  {
+    "blue" : 138,
+    "red" : 137,
+    "name" : "古代紫",
+    "hex" : "#895b8a",
+    "green" : 91
+  },
+  {
+    "blue" : 88,
+    "red" : 137,
+    "name" : "肥後煤竹",
+    "hex" : "#897858",
+    "green" : 120
+  },
+  {
+    "blue" : 152,
+    "red" : 136,
+    "name" : "紫",
+    "hex" : "#884898",
+    "green" : 72
+  },
+  {
+    "blue" : 132,
+    "red" : 136,
+    "name" : "源氏鼠",
+    "hex" : "#888084",
+    "green" : 128
+  },
+  {
+    "blue" : 127,
+    "red" : 136,
+    "name" : "浅緑",
+    "hex" : "#88cb7f",
+    "green" : 203
+  },
+  {
+    "blue" : 126,
+    "red" : 136,
+    "name" : "利休鼠",
+    "hex" : "#888e7e",
+    "green" : 142
+  },
+  {
+    "blue" : 122,
+    "red" : 136,
+    "name" : "煤色",
+    "hex" : "#887f7a",
+    "green" : 127
+  },
+  {
+    "blue" : 56,
+    "red" : 136,
+    "name" : "梅幸茶",
+    "hex" : "#887938",
+    "green" : 121
+  },
+  {
+    "blue" : 169,
+    "red" : 134,
+    "name" : "紫苑色",
+    "hex" : "#867ba9",
+    "green" : 123
+  },
+  {
+    "blue" : 89,
+    "red" : 133,
+    "name" : "銀煤竹",
+    "hex" : "#856859",
+    "green" : 104
+  },
+  {
+    "blue" : 25,
+    "red" : 133,
+    "name" : "栗梅",
+    "hex" : "#852e19",
+    "green" : 46
+  },
+  {
+    "blue" : 212,
+    "red" : 132,
+    "name" : "青藤色",
+    "hex" : "#84a2d4",
+    "green" : 162
+  },
+  {
+    "blue" : 203,
+    "red" : 132,
+    "name" : "浅縹",
+    "hex" : "#84b9cb",
+    "green" : 185
+  },
+  {
+    "blue" : 195,
+    "red" : 132,
+    "name" : "紅掛空色",
+    "hex" : "#8491c3",
+    "green" : 145
+  },
+  {
+    "blue" : 195,
+    "red" : 132,
+    "name" : "紅碧",
+    "hex" : "#8491c3",
+    "green" : 145
+  },
+  {
+    "blue" : 210,
+    "red" : 131,
+    "name" : "白群",
+    "hex" : "#83ccd2",
+    "green" : 204
+  },
+  {
+    "blue" : 92,
+    "red" : 131,
+    "name" : "松葉色",
+    "hex" : "#839b5c",
+    "green" : 155
+  },
+  {
+    "blue" : 128,
+    "red" : 130,
+    "name" : "茄子紺",
+    "hex" : "#824880",
+    "green" : 72
+  },
+  {
+    "blue" : 70,
+    "red" : 130,
+    "name" : "鶸萌黄",
+    "hex" : "#82ae46",
+    "green" : 174
+  },
+  {
+    "blue" : 169,
+    "red" : 128,
+    "name" : "水浅葱",
+    "hex" : "#80aba9",
+    "green" : 171
+  },
+  {
+    "blue" : 155,
+    "red" : 128,
+    "name" : "湊鼠",
+    "hex" : "#80989b",
+    "green" : 152
+  },
+  {
+    "blue" : 171,
+    "red" : 126,
+    "name" : "青竹色",
+    "hex" : "#7ebeab",
+    "green" : 190
+  },
+  {
+    "blue" : 165,
+    "red" : 126,
+    "name" : "青磁色",
+    "hex" : "#7ebea5",
+    "green" : 190
+  },
+  {
+    "blue" : 125,
+    "red" : 125,
+    "name" : "灰色",
+    "hex" : "#7d7d7d",
+    "green" : 125
+  },
+  {
+    "blue" : 125,
+    "red" : 123,
+    "name" : "鉛色",
+    "hex" : "#7b7c7d",
+    "green" : 124
+  },
+  {
+    "blue" : 66,
+    "red" : 123,
+    "name" : "草色",
+    "hex" : "#7b8d42",
+    "green" : 141
+  },
+  {
+    "blue" : 65,
+    "red" : 123,
+    "name" : "紅檜皮",
+    "hex" : "#7b4741",
+    "green" : 71
+  },
+  {
+    "blue" : 62,
+    "red" : 123,
+    "name" : "国防色",
+    "hex" : "#7b6c3e",
+    "green" : 108
+  },
+  {
+    "blue" : 113,
+    "red" : 122,
+    "name" : "蒲葡",
+    "hex" : "#7a4171",
+    "green" : 65
+  },
+  {
+    "blue" : 29,
+    "red" : 120,
+    "name" : "唐茶",
+    "hex" : "#783c1d",
+    "green" : 60
+  },
+  {
+    "blue" : 48,
+    "red" : 119,
+    "name" : "海老茶",
+    "hex" : "#773c30",
+    "green" : 60
+  },
+  {
+    "blue" : 107,
+    "red" : 118,
+    "name" : "山鳩色",
+    "hex" : "#767c6b",
+    "green" : 124
+  },
+  {
+    "blue" : 100,
+    "red" : 118,
+    "name" : "老竹色",
+    "hex" : "#769164",
+    "green" : 145
+  },
+  {
+    "blue" : 71,
+    "red" : 118,
+    "name" : "黄枯茶",
+    "hex" : "#765c47",
+    "green" : 92
+  },
+  {
+    "blue" : 7,
+    "red" : 118,
+    "name" : "栗色",
+    "hex" : "#762f07",
+    "green" : 47
+  },
+  {
+    "blue" : 0,
+    "red" : 117,
+    "name" : "赤銅色",
+    "hex" : "#752100",
+    "green" : 33
+  },
+  {
+    "blue" : 153,
+    "red" : 116,
+    "name" : "江戸紫",
+    "hex" : "#745399",
+    "green" : 83
+  },
+  {
+    "blue" : 92,
+    "red" : 116,
+    "name" : "暗紅色",
+    "hex" : "#74325c",
+    "green" : 50
+  },
+  {
+    "blue" : 113,
+    "red" : 114,
+    "name" : "鈍色",
+    "hex" : "#727171",
+    "green" : 113
+  },
+  {
+    "blue" : 80,
+    "red" : 114,
+    "name" : "樺茶色",
+    "hex" : "#726250",
+    "green" : 98
+  },
+  {
+    "blue" : 64,
+    "red" : 114,
+    "name" : "海松色",
+    "hex" : "#726d40",
+    "green" : 109
+  },
+  {
+    "blue" : 108,
+    "red" : 113,
+    "name" : "紫鼠",
+    "hex" : "#71686c",
+    "green" : 104
+  },
+  {
+    "blue" : 70,
+    "red" : 113,
+    "name" : "媚茶",
+    "hex" : "#716246",
+    "green" : 98
+  },
+  {
+    "blue" : 31,
+    "red" : 113,
+    "name" : "鶯茶",
+    "hex" : "#715c1f",
+    "green" : 92
+  },
+  {
+    "blue" : 170,
+    "red" : 112,
+    "name" : "藤納戸",
+    "hex" : "#706caa",
+    "green" : 108
+  },
+  {
+    "blue" : 163,
+    "red" : 112,
+    "name" : "菫色",
+    "hex" : "#7058a3",
+    "green" : 88
+  },
+  {
+    "blue" : 103,
+    "red" : 112,
+    "name" : "葡萄鼠",
+    "hex" : "#705b67",
+    "green" : 91
+  },
+  {
+    "blue" : 76,
+    "red" : 111,
+    "name" : "煤竹色",
+    "hex" : "#6f514c",
+    "green" : 81
+  },
+  {
+    "blue" : 62,
+    "red" : 111,
+    "name" : "焦茶",
+    "hex" : "#6f4b3e",
+    "green" : 75
+  },
+  {
+    "blue" : 85,
+    "red" : 110,
+    "name" : "麹塵",
+    "hex" : "#6e7955",
+    "green" : 121
+  },
+  {
+    "blue" : 50,
+    "red" : 109,
+    "name" : "栗皮茶",
+    "hex" : "#6d3c32",
+    "green" : 60
+  },
+  {
+    "blue" : 141,
+    "red" : 108,
+    "name" : "藍鼠",
+    "hex" : "#6c848d",
+    "green" : 132
+  },
+  {
+    "blue" : 47,
+    "red" : 108,
+    "name" : "葡萄茶",
+    "hex" : "#6c2c2f",
+    "green" : 44
+  },
+  {
+    "blue" : 36,
+    "red" : 108,
+    "name" : "錆色",
+    "hex" : "#6c3524",
+    "green" : 53
+  },
+  {
+    "blue" : 110,
+    "red" : 107,
+    "name" : "青鈍",
+    "hex" : "#6b7b6e",
+    "green" : 123
+  },
+  {
+    "blue" : 89,
+    "red" : 107,
+    "name" : "岩井茶",
+    "hex" : "#6b6f59",
+    "green" : 111
+  },
+  {
+    "blue" : 33,
+    "red" : 106,
+    "name" : "璃寛茶",
+    "hex" : "#6a5d21",
+    "green" : 93
+  },
+  {
+    "blue" : 171,
+    "red" : 105,
+    "name" : "薄花色",
+    "hex" : "#698aab",
+    "green" : 138
+  },
+  {
+    "blue" : 118,
+    "red" : 105,
+    "name" : "薄緑",
+    "hex" : "#69b076",
+    "green" : 176
+  },
+  {
+    "blue" : 27,
+    "red" : 105,
+    "name" : "苔色",
+    "hex" : "#69821b",
+    "green" : 130
+  },
+  {
+    "blue" : 155,
+    "red" : 104,
+    "name" : "紅掛花色",
+    "hex" : "#68699b",
+    "green" : 105
+  },
+  {
+    "blue" : 141,
+    "red" : 104,
+    "name" : "若竹色",
+    "hex" : "#68be8d",
+    "green" : 190
+  },
+  {
+    "blue" : 54,
+    "red" : 104,
+    "name" : "赤褐色",
+    "hex" : "#683f36",
+    "green" : 63
+  },
+  {
+    "blue" : 152,
+    "red" : 103,
+    "name" : "青紫",
+    "hex" : "#674598",
+    "green" : 69
+  },
+  {
+    "blue" : 150,
+    "red" : 103,
+    "name" : "菖蒲色",
+    "hex" : "#674196",
+    "green" : 65
+  },
+  {
+    "blue" : 50,
+    "red" : 102,
+    "name" : "茶褐色",
+    "hex" : "#664032",
+    "green" : 64
+  },
+  {
+    "blue" : 142,
+    "red" : 101,
+    "name" : "本紫",
+    "hex" : "#65318e",
+    "green" : 49
+  },
+  {
+    "blue" : 37,
+    "red" : 100,
+    "name" : "葡萄色",
+    "hex" : "#640125",
+    "green" : 1
+  },
+  {
+    "blue" : 80,
+    "red" : 99,
+    "name" : "濃色",
+    "hex" : "#634950",
+    "green" : 73
+  },
+  {
+    "blue" : 75,
+    "red" : 95,
+    "name" : "紫鳶",
+    "hex" : "#5f414b",
+    "green" : 65
+  },
+  {
+    "blue" : 145,
+    "red" : 92,
+    "name" : "錆浅葱",
+    "hex" : "#5c9291",
+    "green" : 146
+  },
+  {
+    "blue" : 145,
+    "red" : 91,
+    "name" : "舛花色",
+    "hex" : "#5b7e91",
+    "green" : 126
+  },
+  {
+    "blue" : 86,
+    "red" : 91,
+    "name" : "柳煤竹",
+    "hex" : "#5b6356",
+    "green" : 99
+  },
+  {
+    "blue" : 186,
+    "red" : 90,
+    "name" : "薄花桜",
+    "hex" : "#5a79ba",
+    "green" : 121
+  },
+  {
+    "blue" : 89,
+    "red" : 90,
+    "name" : "藤煤竹",
+    "hex" : "#5a5359",
+    "green" : 83
+  },
+  {
+    "blue" : 75,
+    "red" : 90,
+    "name" : "海松茶",
+    "hex" : "#5a544b",
+    "green" : 84
+  },
+  {
+    "blue" : 198,
+    "red" : 89,
+    "name" : "新橋色",
+    "hex" : "#59b9c6",
+    "green" : 185
+  },
+  {
+    "blue" : 87,
+    "red" : 89,
+    "name" : "墨",
+    "hex" : "#595857",
+    "green" : 88
+  },
+  {
+    "blue" : 85,
+    "red" : 89,
+    "name" : "丼鼠",
+    "hex" : "#595455",
+    "green" : 84
+  },
+  {
+    "blue" : 85,
+    "red" : 89,
+    "name" : "滅紫",
+    "hex" : "#594255",
+    "green" : 66
+  },
+  {
+    "blue" : 34,
+    "red" : 88,
+    "name" : "黒茶",
+    "hex" : "#583822",
+    "green" : 56
+  },
+  {
+    "blue" : 162,
+    "red" : 86,
+    "name" : "桔梗色",
+    "hex" : "#5654a2",
+    "green" : 84
+  },
+  {
+    "blue" : 75,
+    "red" : 86,
+    "name" : "藍海松茶",
+    "hex" : "#56564b",
+    "green" : 86
+  },
+  {
+    "blue" : 75,
+    "red" : 86,
+    "name" : "藍媚茶",
+    "hex" : "#56564b",
+    "green" : 86
+  },
+  {
+    "blue" : 91,
+    "red" : 85,
+    "name" : "桑の実色",
+    "hex" : "#55295b",
+    "green" : 41
+  },
+  {
+    "blue" : 56,
+    "red" : 85,
+    "name" : "涅色",
+    "hex" : "#554738",
+    "green" : 71
+  },
+  {
+    "blue" : 71,
+    "red" : 84,
+    "name" : "黒橡",
+    "hex" : "#544a47",
+    "green" : 74
+  },
+  {
+    "blue" : 50,
+    "red" : 84,
+    "name" : "憲法色",
+    "hex" : "#543f32",
+    "green" : 63
+  },
+  {
+    "blue" : 195,
+    "red" : 83,
+    "name" : "薄群青",
+    "hex" : "#5383c3",
+    "green" : 131
+  },
+  {
+    "blue" : 125,
+    "red" : 83,
+    "name" : "錆御納戸",
+    "hex" : "#53727d",
+    "green" : 114
+  },
+  {
+    "blue" : 96,
+    "red" : 82,
+    "name" : "葡萄色",
+    "hex" : "#522f60",
+    "green" : 47
+  },
+  {
+    "blue" : 77,
+    "red" : 82,
+    "name" : "消炭色",
+    "hex" : "#524e4d",
+    "green" : 78
+  },
+  {
+    "blue" : 72,
+    "red" : 82,
+    "name" : "紅消鼠",
+    "hex" : "#524748",
+    "green" : 71
+  },
+  {
+    "blue" : 67,
+    "red" : 81,
+    "name" : "似せ紫",
+    "hex" : "#513743",
+    "green" : 55
+  },
+  {
+    "blue" : 164,
+    "red" : 80,
+    "name" : "薄縹",
+    "hex" : "#507ea4",
+    "green" : 126
+  },
+  {
+    "blue" : 92,
+    "red" : 79,
+    "name" : "濃鼠",
+    "hex" : "#4f455c",
+    "green" : 69
+  },
+  {
+    "blue" : 175,
+    "red" : 77,
+    "name" : "紺桔梗",
+    "hex" : "#4d5aaf",
+    "green" : 90
+  },
+  {
+    "blue" : 175,
+    "red" : 77,
+    "name" : "花色",
+    "hex" : "#4d5aaf",
+    "green" : 90
+  },
+  {
+    "blue" : 152,
+    "red" : 77,
+    "name" : "紅桔梗",
+    "hex" : "#4d4398",
+    "green" : 67
+  },
+  {
+    "blue" : 97,
+    "red" : 77,
+    "name" : "褐色",
+    "hex" : "#4d4c61",
+    "green" : 76
+  },
+  {
+    "blue" : 179,
+    "red" : 76,
+    "name" : "群青色",
+    "hex" : "#4c6cb3",
+    "green" : 108
+  },
+  {
+    "blue" : 115,
+    "red" : 76,
+    "name" : "御召御納戸",
+    "hex" : "#4c6473",
+    "green" : 100
+  },
+  {
+    "blue" : 142,
+    "red" : 74,
+    "name" : "紺藍",
+    "hex" : "#4a488e",
+    "green" : 72
+  },
+  {
+    "blue" : 89,
+    "red" : 73,
+    "name" : "深紫",
+    "hex" : "#493759",
+    "green" : 55
+  },
+  {
+    "blue" : 65,
+    "red" : 73,
+    "name" : "千歳茶",
+    "hex" : "#494a41",
+    "green" : 74
+  },
+  {
+    "blue" : 89,
+    "red" : 72,
+    "name" : "錆鉄御納戸",
+    "hex" : "#485859",
+    "green" : 88
+  },
+  {
+    "blue" : 132,
+    "red" : 71,
+    "name" : "青碧",
+    "hex" : "#478384",
+    "green" : 131
+  },
+  {
+    "blue" : 94,
+    "red" : 71,
+    "name" : "緑青色",
+    "hex" : "#47885e",
+    "green" : 136
+  },
+  {
+    "blue" : 92,
+    "red" : 71,
+    "name" : "錆鼠",
+    "hex" : "#47585c",
+    "green" : 88
+  },
+  {
+    "blue" : 80,
+    "red" : 71,
+    "name" : "革色",
+    "hex" : "#475950",
+    "green" : 89
+  },
+  {
+    "blue" : 77,
+    "red" : 71,
+    "name" : "藍墨茶",
+    "hex" : "#474a4d",
+    "green" : 74
+  },
+  {
+    "blue" : 66,
+    "red" : 71,
+    "name" : "仙斎茶",
+    "hex" : "#474b42",
+    "green" : 75
+  },
+  {
+    "blue" : 68,
+    "red" : 70,
+    "name" : "紫紺",
+    "hex" : "#460e44",
+    "green" : 14
+  },
+  {
+    "blue" : 101,
+    "red" : 69,
+    "name" : "鉄御納戸",
+    "hex" : "#455765",
+    "green" : 87
+  },
+  {
+    "blue" : 123,
+    "red" : 68,
+    "name" : "紺鼠",
+    "hex" : "#44617b",
+    "green" : 97
+  },
+  {
+    "blue" : 107,
+    "red" : 67,
+    "name" : "御召茶",
+    "hex" : "#43676b",
+    "green" : 103
+  },
+  {
+    "blue" : 60,
+    "red" : 67,
+    "name" : "檳榔子染",
+    "hex" : "#433d3c",
+    "green" : 61
+  },
+  {
+    "blue" : 47,
+    "red" : 67,
+    "name" : "黒鳶",
+    "hex" : "#432f2f",
+    "green" : 47
+  },
+  {
+    "blue" : 121,
+    "red" : 66,
+    "name" : "熨斗目花色",
+    "hex" : "#426579",
+    "green" : 101
+  },
+  {
+    "blue" : 43,
+    "red" : 63,
+    "name" : "赤墨",
+    "hex" : "#3f312b",
+    "green" : 49
+  },
+  {
+    "blue" : 173,
+    "red" : 62,
+    "name" : "杜若色",
+    "hex" : "#3e62ad",
+    "green" : 98
+  },
+  {
+    "blue" : 112,
+    "red" : 62,
+    "name" : "緑",
+    "hex" : "#3eb370",
+    "green" : 179
+  },
+  {
+    "blue" : 96,
+    "red" : 59,
+    "name" : "木賊色",
+    "hex" : "#3b7960",
+    "green" : 121
+  },
+  {
+    "blue" : 82,
+    "red" : 58,
+    "name" : "虫襖",
+    "hex" : "#3a5b52",
+    "green" : 91
+  },
+  {
+    "blue" : 79,
+    "red" : 57,
+    "name" : "青褐",
+    "hex" : "#393e4f",
+    "green" : 62
+  },
+  {
+    "blue" : 76,
+    "red" : 57,
+    "name" : "藍鉄",
+    "hex" : "#393f4c",
+    "green" : 63
+  },
+  {
+    "blue" : 219,
+    "red" : 56,
+    "name" : "露草色",
+    "hex" : "#38a1db",
+    "green" : 161
+  },
+  {
+    "blue" : 139,
+    "red" : 56,
+    "name" : "翡翠色",
+    "hex" : "#38b48b",
+    "green" : 180
+  },
+  {
+    "blue" : 60,
+    "red" : 56,
+    "name" : "羊羹色",
+    "hex" : "#383c3c",
+    "green" : 60
+  },
+  {
+    "blue" : 49,
+    "red" : 51,
+    "name" : "黒緑",
+    "hex" : "#333631",
+    "green" : 54
+  },
+  {
+    "blue" : 69,
+    "red" : 49,
+    "name" : "千歳緑",
+    "hex" : "#316745",
+    "green" : 103
+  },
+  {
+    "blue" : 51,
+    "red" : 48,
+    "name" : "黒紅",
+    "hex" : "#302833",
+    "green" : 40
+  },
+  {
+    "blue" : 80,
+    "red" : 47,
+    "name" : "天鵞絨",
+    "hex" : "#2f5d50",
+    "green" : 93
+  },
+  {
+    "blue" : 48,
+    "red" : 46,
+    "name" : "紫黒",
+    "hex" : "#2e2930",
+    "green" : 41
+  },
+  {
+    "blue" : 225,
+    "red" : 44,
+    "name" : "天色",
+    "hex" : "#2ca9e1",
+    "green" : 169
+  },
+  {
+    "blue" : 84,
+    "red" : 44,
+    "name" : "高麗納戸",
+    "hex" : "#2c4f54",
+    "green" : 79
+  },
+  {
+    "blue" : 43,
+    "red" : 43,
+    "name" : "蝋色",
+    "hex" : "#2b2b2b",
+    "green" : 43
+  },
+  {
+    "blue" : 43,
+    "red" : 43,
+    "name" : "黒",
+    "hex" : "#2b2b2b",
+    "green" : 43
+  },
+  {
+    "blue" : 162,
+    "red" : 42,
+    "name" : "花浅葱",
+    "hex" : "#2a83a2",
+    "green" : 131
+  },
+  {
+    "blue" : 115,
+    "red" : 42,
+    "name" : "深縹",
+    "hex" : "#2a4073",
+    "green" : 64
+  },
+  {
+    "blue" : 20,
+    "red" : 40,
+    "name" : "鉄黒",
+    "hex" : "#281a14",
+    "green" : 26
+  },
+  {
+    "blue" : 195,
+    "red" : 39,
+    "name" : "縹色",
+    "hex" : "#2792c3",
+    "green" : 146
+  },
+  {
+    "blue" : 120,
+    "red" : 39,
+    "name" : "青藍",
+    "hex" : "#274a78",
+    "green" : 74
+  },
+  {
+    "blue" : 0,
+    "red" : 37,
+    "name" : "黒壇",
+    "hex" : "#250d00",
+    "green" : 13
+  },
+  {
+    "blue" : 8,
+    "red" : 36,
+    "name" : "憲法黒茶",
+    "hex" : "#241a08",
+    "green" : 26
+  },
+  {
+    "blue" : 112,
+    "red" : 34,
+    "name" : "紺色",
+    "hex" : "#223a70",
+    "green" : 58
+  },
+  {
+    "blue" : 68,
+    "red" : 32,
+    "name" : "褐返",
+    "hex" : "#203744",
+    "green" : 55
+  },
+  {
+    "blue" : 52,
+    "red" : 31,
+    "name" : "百入茶",
+    "hex" : "#1f3134",
+    "green" : 49
+  },
+  {
+    "blue" : 162,
+    "red" : 30,
+    "name" : "瑠璃色",
+    "hex" : "#1e50a2",
+    "green" : 80
+  },
+  {
+    "blue" : 92,
+    "red" : 28,
+    "name" : "留紺",
+    "hex" : "#1c305c",
+    "green" : 48
+  },
+  {
+    "blue" : 142,
+    "red" : 25,
+    "name" : "瑠璃紺",
+    "hex" : "#19448e",
+    "green" : 68
+  },
+  {
+    "blue" : 96,
+    "red" : 25,
+    "name" : "紺青",
+    "hex" : "#192f60",
+    "green" : 47
+  },
+  {
+    "blue" : 20,
+    "red" : 24,
+    "name" : "烏羽色",
+    "hex" : "#180614",
+    "green" : 6
+  },
+  {
+    "blue" : 75,
+    "red" : 23,
+    "name" : "鉄紺",
+    "hex" : "#17184b",
+    "green" : 24
+  },
+  {
+    "blue" : 132,
+    "red" : 22,
+    "name" : "紺瑠璃",
+    "hex" : "#164a84",
+    "green" : 74
+  },
+  {
+    "blue" : 131,
+    "red" : 22,
+    "name" : "藍色",
+    "hex" : "#165e83",
+    "green" : 94
+  },
+  {
+    "blue" : 14,
+    "red" : 22,
+    "name" : "暗黒色",
+    "hex" : "#16160e",
+    "green" : 22
+  },
+  {
+    "blue" : 80,
+    "red" : 15,
+    "name" : "濃藍",
+    "hex" : "#0f2350",
+    "green" : 35
+  },
+  {
+    "blue" : 21,
+    "red" : 13,
+    "name" : "漆黒",
+    "hex" : "#0d0015",
+    "green" : 0
+  },
+  {
+    "blue" : 96,
+    "red" : 2,
+    "name" : "常磐緑",
+    "hex" : "#028760",
+    "green" : 135
+  },
+  {
+    "blue" : 217,
+    "red" : 0,
+    "name" : "青",
+    "hex" : "#0095d9",
+    "green" : 149
+  },
+  {
+    "blue" : 200,
+    "red" : 0,
+    "name" : "薄藍",
+    "hex" : "#0094c8",
+    "green" : 148
+  },
+  {
+    "blue" : 187,
+    "red" : 0,
+    "name" : "紺碧",
+    "hex" : "#007bbb",
+    "green" : 123
+  },
+  {
+    "blue" : 175,
+    "red" : 0,
+    "name" : "浅葱色",
+    "hex" : "#00a3af",
+    "green" : 163
+  },
+  {
+    "blue" : 153,
+    "red" : 0,
+    "name" : "納戸色",
+    "hex" : "#008899",
+    "green" : 136
+  },
+  {
+    "blue" : 151,
+    "red" : 0,
+    "name" : "青緑",
+    "hex" : "#00a497",
+    "green" : 164
+  },
+  {
+    "blue" : 129,
+    "red" : 0,
+    "name" : "花緑青",
+    "hex" : "#00a381",
+    "green" : 163
+  },
+  {
+    "blue" : 84,
+    "red" : 0,
+    "name" : "萌葱色",
+    "hex" : "#006e54",
+    "green" : 110
+  },
+  {
+    "blue" : 67,
+    "red" : 0,
+    "name" : "常磐色",
+    "hex" : "#007b43",
+    "green" : 123
+  },
+  {
+    "blue" : 67,
+    "red" : 0,
+    "name" : "鉄色",
+    "hex" : "#005243",
+    "green" : 82
+  },
+  {
+    "blue" : 46,
+    "red" : 0,
+    "name" : "深緑",
+    "hex" : "#00552e",
+    "green" : 85
+  },
+  {
+    "blue" : 0,
+    "red" : 0,
+    "name" : "濡羽色",
+    "hex" : "#000b00",
+    "green" : 11
+  }
+]

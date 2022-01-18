@@ -1,6 +1,6 @@
 <template>
   <div id="nav" :style="`height:${navHeight}px;`">
-    <Appnavigationbar style="width: 100%; height: 100%"></Appnavigationbar>
+    <Appnavigationbar style="width: 100%; height: 100%" v-if="navHeight > 0"></Appnavigationbar>
   </div>
   <router-view :style="`height: ${contentViewHeight}px;`"/>
 </template>
@@ -17,7 +17,7 @@ export default{
   data () {
     return {
       fullHeight: 0,
-      navHeight: 0,
+      // navHeight: 0,
       contentViewHeight: 0
     }
   },
@@ -32,17 +32,22 @@ export default{
         },400)
       }
 
-      this.contentViewHeight = this.fullHeight - this.navHeight
+      this.reMathContentViewHeight();
+    },
+    navHeight (val) {
+      console.log(`navHeight:(${val})`)
+
+      this.reMathContentViewHeight();
     }
   },
   computed: {
-    // contentViewHeight() {
-    //   return this.fullHeight - this.navHeight
-    // }
+    navHeight() {
+      return this.$store.state.navigationBar.height
+    }
   },
   mounted () {
     this.fullHeight = this.$store.state.screen.height
-    this.navHeight =  this.$store.state.navigationBar.height
+    // this.navHeight =  this.$store.state.navigationBar.height
 
     this.get_bodyHeight()
   },
@@ -62,6 +67,9 @@ export default{
           })
         })()
       }
+    },
+    reMathContentViewHeight() {
+      this.contentViewHeight = this.fullHeight - this.navHeight
     }
   }
 }

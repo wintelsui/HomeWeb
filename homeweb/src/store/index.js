@@ -20,6 +20,12 @@ export default createStore({
             if (height != null) {
                 state.screen.height = height
             }
+        },
+        updateNavigationBar(state, size) {
+            let height = size.height
+            if (height != null) {
+                state.navigationBar.height = height
+            }
         }
     },
     actions: {

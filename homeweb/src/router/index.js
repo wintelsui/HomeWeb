@@ -1,33 +1,17 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
-import Home from '../views/Home/Home.vue'
+
+import HomeRoutes from '@/router/Maps/Homes'
+import AboutRoutes from "@/router/Maps/Abouts";
+import ProjectRoutes from "@/router/Maps/Projects";
+import OtherRoutes from "@/router/Maps/Others";
+import Error404Routes from "@/router/Maps/ErrorNotFound";
 
 const routes = [
-  {
-    path: '/',
-    name: 'Home',
-    component: Home
-  },
-  {
-    path: '/about',
-    name: 'About',
-    component: () => import('../views/About/About.vue')
-  },
-  {
-    path: '/calendar',
-    name: 'Calendar',
-    component: () => import('../views/Calendar/Calendar.vue')
-  },
-  {
-    path: '/colorCard',
-    name: 'ColorCard',
-    component: () => import('../views/ColorCard/ColorCard.vue')
-  },
-  {
-    path: '/projects',
-    name: 'Projects',
-    component: () => import('../views/Projects/Projects.vue')
-  }
-
+    ...HomeRoutes,
+    ...AboutRoutes,
+    ...ProjectRoutes,
+    ...OtherRoutes,
+    ...Error404Routes
 ]
 
 const router = createRouter({

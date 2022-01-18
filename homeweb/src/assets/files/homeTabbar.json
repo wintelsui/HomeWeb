@@ -1,0 +1,17 @@
+[
+  {
+    "path": "/",
+    "name": "Home",
+    "nameZH": "首页"
+  },
+  {
+    "path": "/projects",
+    "name": "Projects",
+    "nameZH": "项目"
+  },
+  {
+    "path": "/others",
+    "name": "Others",
+    "nameZH": "其他"
+  }
+]

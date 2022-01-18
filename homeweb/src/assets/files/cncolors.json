@@ -1,0 +1,1143 @@
+[
+  {
+    "blue" : 255,
+    "red" : 255,
+    "name" : "精白",
+    "hex" : "#ffffff",
+    "green" : 255
+  },
+  {
+    "blue" : 240,
+    "red" : 255,
+    "name" : "象牙白",
+    "hex" : "#fffbf0",
+    "green" : 251
+  },
+  {
+    "blue" : 223,
+    "red" : 255,
+    "name" : "白粉",
+    "hex" : "#fff2df",
+    "green" : 242
+  },
+  {
+    "blue" : 167,
+    "red" : 255,
+    "name" : "粉红",
+    "hex" : "#ffb3a7",
+    "green" : 179
+  },
+  {
+    "blue" : 151,
+    "red" : 255,
+    "name" : "洋红",
+    "hex" : "#ff0097",
+    "green" : 0
+  },
+  {
+    "blue" : 119,
+    "red" : 255,
+    "name" : "洋红",
+    "hex" : "#ff4777",
+    "green" : 71
+  },
+  {
+    "blue" : 115,
+    "red" : 255,
+    "name" : "姜黄",
+    "hex" : "#ffc773",
+    "green" : 199
+  },
+  {
+    "blue" : 81,
+    "red" : 255,
+    "name" : "火红",
+    "hex" : "#ff2d51",
+    "green" : 45
+  },
+  {
+    "blue" : 75,
+    "red" : 255,
+    "name" : "雌黄",
+    "hex" : "#ffc64b",
+    "green" : 198
+  },
+  {
+    "blue" : 67,
+    "red" : 255,
+    "name" : "鹅黄",
+    "hex" : "#fff143",
+    "green" : 241
+  },
+  {
+    "blue" : 54,
+    "red" : 255,
+    "name" : "橘黄",
+    "hex" : "#ff8936",
+    "green" : 137
+  },
+  {
+    "blue" : 49,
+    "red" : 255,
+    "name" : "杏黄",
+    "hex" : "#ffa631",
+    "green" : 166
+  },
+  {
+    "blue" : 49,
+    "red" : 255,
+    "name" : "杏红",
+    "hex" : "#ff8c31",
+    "green" : 140
+  },
+  {
+    "blue" : 33,
+    "red" : 255,
+    "name" : "大红",
+    "hex" : "#ff2121",
+    "green" : 33
+  },
+  {
+    "blue" : 32,
+    "red" : 255,
+    "name" : "丹",
+    "hex" : "#ff4e20",
+    "green" : 78
+  },
+  {
+    "blue" : 31,
+    "red" : 255,
+    "name" : "朱砂",
+    "hex" : "#ff461f",
+    "green" : 70
+  },
+  {
+    "blue" : 30,
+    "red" : 255,
+    "name" : "藤黄",
+    "hex" : "#ffb61e",
+    "green" : 182
+  },
+  {
+    "blue" : 0,
+    "red" : 255,
+    "name" : "橙黄",
+    "hex" : "#ffa400",
+    "green" : 164
+  },
+  {
+    "blue" : 0,
+    "red" : 255,
+    "name" : "橘红",
+    "hex" : "#ff7500",
+    "green" : 117
+  },
+  {
+    "blue" : 0,
+    "red" : 255,
+    "name" : "朱红",
+    "hex" : "#ff4c00",
+    "green" : 76
+  },
+  {
+    "blue" : 0,
+    "red" : 255,
+    "name" : "炎",
+    "hex" : "#ff3300",
+    "green" : 51
+  },
+  {
+    "blue" : 232,
+    "red" : 252,
+    "name" : "鱼肚白",
+    "hex" : "#fcefe8",
+    "green" : 239
+  },
+  {
+    "blue" : 114,
+    "red" : 250,
+    "name" : "鸭黄",
+    "hex" : "#faff72",
+    "green" : 255
+  },
+  {
+    "blue" : 53,
+    "red" : 250,
+    "name" : "橙色",
+    "hex" : "#fa8c35",
+    "green" : 140
+  },
+  {
+    "blue" : 111,
+    "red" : 249,
+    "name" : "酡颜",
+    "hex" : "#f9906f",
+    "green" : 144
+  },
+  {
+    "blue" : 131,
+    "red" : 244,
+    "name" : "桃红",
+    "hex" : "#f47983",
+    "green" : 121
+  },
+  {
+    "blue" : 241,
+    "red" : 243,
+    "name" : "荼白",
+    "hex" : "#f3f9f1",
+    "green" : 249
+  },
+  {
+    "blue" : 56,
+    "red" : 243,
+    "name" : "朱膘",
+    "hex" : "#f36838",
+    "green" : 104
+  },
+  {
+    "blue" : 54,
+    "red" : 243,
+    "name" : "彤",
+    "hex" : "#f35336",
+    "green" : 83
+  },
+  {
+    "blue" : 222,
+    "red" : 242,
+    "name" : "缟",
+    "hex" : "#f2ecde",
+    "green" : 236
+  },
+  {
+    "blue" : 69,
+    "red" : 242,
+    "name" : "赤金",
+    "hex" : "#f2be45",
+    "green" : 190
+  },
+  {
+    "blue" : 0,
+    "red" : 242,
+    "name" : "石榴红",
+    "hex" : "#f20c00",
+    "green" : 12
+  },
+  {
+    "blue" : 255,
+    "red" : 240,
+    "name" : "雪白",
+    "hex" : "#f0fcff",
+    "green" : 252
+  },
+  {
+    "blue" : 244,
+    "red" : 240,
+    "name" : "铅白",
+    "hex" : "#f0f0f4",
+    "green" : 240
+  },
+  {
+    "blue" : 86,
+    "red" : 240,
+    "name" : "品红",
+    "hex" : "#f00056",
+    "green" : 0
+  },
+  {
+    "blue" : 84,
+    "red" : 240,
+    "name" : "银红",
+    "hex" : "#f05654",
+    "green" : 86
+  },
+  {
+    "blue" : 57,
+    "red" : 240,
+    "name" : "缃色",
+    "hex" : "#f0c239",
+    "green" : 194
+  },
+  {
+    "blue" : 130,
+    "red" : 239,
+    "name" : "嫣红",
+    "hex" : "#ef7a82",
+    "green" : 122
+  },
+  {
+    "blue" : 176,
+    "red" : 238,
+    "name" : "牙色",
+    "hex" : "#eedeb0",
+    "green" : 222
+  },
+  {
+    "blue" : 216,
+    "red" : 237,
+    "name" : "藕色",
+    "hex" : "#edd1d8",
+    "green" : 209
+  },
+  {
+    "blue" : 54,
+    "red" : 237,
+    "name" : "妃色",
+    "hex" : "#ed5736",
+    "green" : 87
+  },
+  {
+    "blue" : 118,
+    "red" : 234,
+    "name" : "金色",
+    "hex" : "#eacd76",
+    "green" : 205
+  },
+  {
+    "blue" : 86,
+    "red" : 234,
+    "name" : "樱草色",
+    "hex" : "#eaff56",
+    "green" : 255
+  },
+  {
+    "blue" : 246,
+    "red" : 233,
+    "name" : "霜色",
+    "hex" : "#e9f1f6",
+    "green" : 241
+  },
+  {
+    "blue" : 239,
+    "red" : 233,
+    "name" : "银白",
+    "hex" : "#e9e7ef",
+    "green" : 231
+  },
+  {
+    "blue" : 29,
+    "red" : 233,
+    "name" : "雄黄",
+    "hex" : "#e9bb1d",
+    "green" : 187
+  },
+  {
+    "blue" : 208,
+    "red" : 228,
+    "name" : "藕荷色",
+    "hex" : "#e4c6d0",
+    "green" : 198
+  },
+  {
+    "blue" : 253,
+    "red" : 227,
+    "name" : "莹白",
+    "hex" : "#e3f9fd",
+    "green" : 249
+  },
+  {
+    "blue" : 69,
+    "red" : 226,
+    "name" : "黄栌",
+    "hex" : "#e29c45",
+    "green" : 156
+  },
+  {
+    "blue" : 233,
+    "red" : 224,
+    "name" : "素",
+    "hex" : "#e0f0e9",
+    "green" : 240
+  },
+  {
+    "blue" : 232,
+    "red" : 224,
+    "name" : "鸭卵青",
+    "hex" : "#e0eee8",
+    "green" : 238
+  },
+  {
+    "blue" : 35,
+    "red" : 220,
+    "name" : "酡红",
+    "hex" : "#dc3023",
+    "green" : 48
+  },
+  {
+    "blue" : 107,
+    "red" : 219,
+    "name" : "海棠红",
+    "hex" : "#db5a6b",
+    "green" : 90
+  },
+  {
+    "blue" : 17,
+    "red" : 217,
+    "name" : "秋香色",
+    "hex" : "#d9b611",
+    "green" : 182
+  },
+  {
+    "blue" : 240,
+    "red" : 214,
+    "name" : "月白",
+    "hex" : "#d6ecf0",
+    "green" : 236
+  },
+  {
+    "blue" : 125,
+    "red" : 211,
+    "name" : "枯黄",
+    "hex" : "#d3b17d",
+    "green" : 177
+  },
+  {
+    "blue" : 227,
+    "red" : 204,
+    "name" : "丁香色",
+    "hex" : "#cca4e3",
+    "green" : 164
+  },
+  {
+    "blue" : 86,
+    "red" : 203,
+    "name" : "茜色",
+    "hex" : "#cb3a56",
+    "green" : 58
+  },
+  {
+    "blue" : 36,
+    "red" : 202,
+    "name" : "琥珀",
+    "hex" : "#ca6924",
+    "green" : 105
+  },
+  {
+    "blue" : 86,
+    "red" : 201,
+    "name" : "樱桃色",
+    "hex" : "#c93756",
+    "green" : 55
+  },
+  {
+    "blue" : 55,
+    "red" : 201,
+    "name" : "赫赤",
+    "hex" : "#c91f37",
+    "green" : 31
+  },
+  {
+    "blue" : 34,
+    "red" : 201,
+    "name" : "柳黄",
+    "hex" : "#c9dd22",
+    "green" : 221
+  },
+  {
+    "blue" : 64,
+    "red" : 200,
+    "name" : "昏黄",
+    "hex" : "#c89b40",
+    "green" : 155
+  },
+  {
+    "blue" : 35,
+    "red" : 200,
+    "name" : "绯红",
+    "hex" : "#c83c23",
+    "green" : 60
+  },
+  {
+    "blue" : 54,
+    "red" : 195,
+    "name" : "枣红",
+    "hex" : "#c32136",
+    "green" : 33
+  },
+  {
+    "blue" : 43,
+    "red" : 195,
+    "name" : "赤",
+    "hex" : "#c3272b",
+    "green" : 39
+  },
+  {
+    "blue" : 208,
+    "red" : 194,
+    "name" : "花白",
+    "hex" : "#c2ccd0",
+    "green" : 204
+  },
+  {
+    "blue" : 215,
+    "red" : 192,
+    "name" : "青白",
+    "hex" : "#c0ebd7",
+    "green" : 235
+  },
+  {
+    "blue" : 42,
+    "red" : 191,
+    "name" : "银朱",
+    "hex" : "#bf242a",
+    "green" : 36
+  },
+  {
+    "blue" : 47,
+    "red" : 190,
+    "name" : "殷红",
+    "hex" : "#be002f",
+    "green" : 0
+  },
+  {
+    "blue" : 34,
+    "red" : 189,
+    "name" : "嫩绿",
+    "hex" : "#bddd22",
+    "green" : 221
+  },
+  {
+    "blue" : 114,
+    "red" : 188,
+    "name" : "松花色",
+    "hex" : "#bce672",
+    "green" : 230
+  },
+  {
+    "blue" : 197,
+    "red" : 187,
+    "name" : "蟹壳青",
+    "hex" : "#bbcdc5",
+    "green" : 205
+  },
+  {
+    "blue" : 198,
+    "red" : 186,
+    "name" : "老银",
+    "hex" : "#bacac6",
+    "green" : 202
+  },
+  {
+    "blue" : 97,
+    "red" : 179,
+    "name" : "檀",
+    "hex" : "#b36d61",
+    "green" : 109
+  },
+  {
+    "blue" : 68,
+    "red" : 179,
+    "name" : "茶色",
+    "hex" : "#b35c44",
+    "green" : 92
+  },
+  {
+    "blue" : 37,
+    "red" : 178,
+    "name" : "棕色",
+    "hex" : "#b25d25",
+    "green" : 93
+  },
+  {
+    "blue" : 227,
+    "red" : 176,
+    "name" : "雪青",
+    "hex" : "#b0a4e3",
+    "green" : 164
+  },
+  {
+    "blue" : 34,
+    "red" : 175,
+    "name" : "柳绿",
+    "hex" : "#afdd22",
+    "green" : 221
+  },
+  {
+    "blue" : 0,
+    "red" : 174,
+    "name" : "棕黄",
+    "hex" : "#ae7000",
+    "green" : 112
+  },
+  {
+    "blue" : 117,
+    "red" : 169,
+    "name" : "绾",
+    "hex" : "#a98175",
+    "green" : 129
+  },
+  {
+    "blue" : 98,
+    "red" : 168,
+    "name" : "驼色",
+    "hex" : "#a88462",
+    "green" : 132
+  },
+  {
+    "blue" : 68,
+    "red" : 167,
+    "name" : "乌金",
+    "hex" : "#a78e44",
+    "green" : 142
+  },
+  {
+    "blue" : 198,
+    "red" : 164,
+    "name" : "艾绿",
+    "hex" : "#a4e2c6",
+    "green" : 226
+  },
+  {
+    "blue" : 0,
+    "red" : 163,
+    "name" : "葱黄",
+    "hex" : "#a3d900",
+    "green" : 217
+  },
+  {
+    "blue" : 201,
+    "red" : 161,
+    "name" : "蓝灰色",
+    "hex" : "#a1afc9",
+    "green" : 175
+  },
+  {
+    "blue" : 72,
+    "red" : 158,
+    "name" : "豆绿",
+    "hex" : "#9ed048",
+    "green" : 208
+  },
+  {
+    "blue" : 0,
+    "red" : 158,
+    "name" : "葱绿",
+    "hex" : "#9ed900",
+    "green" : 217
+  },
+  {
+    "blue" : 51,
+    "red" : 157,
+    "name" : "胭脂",
+    "hex" : "#9d2933",
+    "green" : 41
+  },
+  {
+    "blue" : 51,
+    "red" : 157,
+    "name" : "胭脂",
+    "hex" : "#9d2933",
+    "green" : 41
+  },
+  {
+    "blue" : 51,
+    "red" : 156,
+    "name" : "赭",
+    "hex" : "#9c5333",
+    "green" : 83
+  },
+  {
+    "blue" : 0,
+    "red" : 155,
+    "name" : "棕红",
+    "hex" : "#9b4400",
+    "green" : 68
+  },
+  {
+    "blue" : 84,
+    "red" : 150,
+    "name" : "豆青",
+    "hex" : "#96ce54",
+    "green" : 206
+  },
+  {
+    "blue" : 57,
+    "red" : 149,
+    "name" : "赭色",
+    "hex" : "#955539",
+    "green" : 85
+  },
+  {
+    "blue" : 187,
+    "red" : 141,
+    "name" : "紫色",
+    "hex" : "#8d4bbb",
+    "green" : 75
+  },
+  {
+    "blue" : 86,
+    "red" : 140,
+    "name" : "绛紫",
+    "hex" : "#8c4356",
+    "green" : 67
+  },
+  {
+    "blue" : 57,
+    "red" : 137,
+    "name" : "秋色",
+    "hex" : "#896c39",
+    "green" : 108
+  },
+  {
+    "blue" : 166,
+    "red" : 136,
+    "name" : "水色",
+    "hex" : "#88ada6",
+    "green" : 173
+  },
+  {
+    "blue" : 51,
+    "red" : 132,
+    "name" : "赭石",
+    "hex" : "#845a33",
+    "green" : 90
+  },
+  {
+    "blue" : 0,
+    "red" : 130,
+    "name" : "棕绿",
+    "hex" : "#827100",
+    "green" : 113
+  },
+  {
+    "blue" : 118,
+    "red" : 129,
+    "name" : "酱紫",
+    "hex" : "#815476",
+    "green" : 84
+  },
+  {
+    "blue" : 99,
+    "red" : 129,
+    "name" : "紫酱",
+    "hex" : "#815463",
+    "green" : 84
+  },
+  {
+    "blue" : 174,
+    "red" : 128,
+    "name" : "青莲",
+    "hex" : "#801dae",
+    "green" : 29
+  },
+  {
+    "blue" : 128,
+    "red" : 128,
+    "name" : "灰色",
+    "hex" : "#808080",
+    "green" : 128
+  },
+  {
+    "blue" : 173,
+    "red" : 127,
+    "name" : "缥",
+    "hex" : "#7fecad",
+    "green" : 236
+  },
+  {
+    "blue" : 0,
+    "red" : 124,
+    "name" : "棕黑",
+    "hex" : "#7c4b00",
+    "green" : 75
+  },
+  {
+    "blue" : 166,
+    "red" : 123,
+    "name" : "石青",
+    "hex" : "#7bcfa6",
+    "green" : 207
+  },
+  {
+    "blue" : 98,
+    "red" : 120,
+    "name" : "竹青",
+    "hex" : "#789262",
+    "green" : 146
+  },
+  {
+    "blue" : 153,
+    "red" : 117,
+    "name" : "墨灰",
+    "hex" : "#758a99",
+    "green" : 138
+  },
+  {
+    "blue" : 138,
+    "red" : 117,
+    "name" : "苍色",
+    "hex" : "#75878a",
+    "green" : 135
+  },
+  {
+    "blue" : 77,
+    "red" : 117,
+    "name" : "黎",
+    "hex" : "#75664d",
+    "green" : 102
+  },
+  {
+    "blue" : 130,
+    "red" : 114,
+    "name" : "乌色",
+    "hex" : "#725e82",
+    "green" : 94
+  },
+  {
+    "blue" : 255,
+    "red" : 112,
+    "name" : "蔚蓝",
+    "hex" : "#70f3ff",
+    "green" : 243
+  },
+  {
+    "blue" : 30,
+    "red" : 110,
+    "name" : "褐色",
+    "hex" : "#6e511e",
+    "green" : 81
+  },
+  {
+    "blue" : 130,
+    "red" : 107,
+    "name" : "黝",
+    "hex" : "#6b6882",
+    "green" : 104
+  },
+  {
+    "blue" : 87,
+    "red" : 102,
+    "name" : "黝黑",
+    "hex" : "#665757",
+    "green" : 87
+  },
+  {
+    "blue" : 29,
+    "red" : 98,
+    "name" : "玄色",
+    "hex" : "#622a1d",
+    "green" : 42
+  },
+  {
+    "blue" : 30,
+    "red" : 96,
+    "name" : "栗色",
+    "hex" : "#60281e",
+    "green" : 40
+  },
+  {
+    "blue" : 60,
+    "red" : 93,
+    "name" : "黧",
+    "hex" : "#5d513c",
+    "green" : 81
+  },
+  {
+    "blue" : 102,
+    "red" : 87,
+    "name" : "黛紫",
+    "hex" : "#574266",
+    "green" : 66
+  },
+  {
+    "blue" : 79,
+    "red" : 86,
+    "name" : "紫棠",
+    "hex" : "#56004f",
+    "green" : 0
+  },
+  {
+    "blue" : 136,
+    "red" : 84,
+    "name" : "铜绿",
+    "hex" : "#549688",
+    "green" : 150
+  },
+  {
+    "blue" : 109,
+    "red" : 80,
+    "name" : "墨色",
+    "hex" : "#50616d",
+    "green" : 97
+  },
+  {
+    "blue" : 174,
+    "red" : 76,
+    "name" : "群青",
+    "hex" : "#4c8dae",
+    "green" : 141
+  },
+  {
+    "blue" : 27,
+    "red" : 76,
+    "name" : "紫檀",
+    "hex" : "#4c221b",
+    "green" : 34
+  },
+  {
+    "blue" : 196,
+    "red" : 75,
+    "name" : "宝蓝",
+    "hex" : "#4b5cc4",
+    "green" : 92
+  },
+  {
+    "blue" : 102,
+    "red" : 74,
+    "name" : "黛",
+    "hex" : "#4a4266",
+    "green" : 66
+  },
+  {
+    "blue" : 49,
+    "red" : 73,
+    "name" : "缁色",
+    "hex" : "#493131",
+    "green" : 49
+  },
+  {
+    "blue" : 163,
+    "red" : 72,
+    "name" : "青碧",
+    "hex" : "#48c0a3",
+    "green" : 192
+  },
+  {
+    "blue" : 246,
+    "red" : 68,
+    "name" : "蓝",
+    "hex" : "#44cef6",
+    "green" : 206
+  },
+  {
+    "blue" : 102,
+    "red" : 66,
+    "name" : "黛绿",
+    "hex" : "#426666",
+    "green" : 102
+  },
+  {
+    "blue" : 102,
+    "red" : 66,
+    "name" : "黛蓝",
+    "hex" : "#425066",
+    "green" : 80
+  },
+  {
+    "blue" : 80,
+    "red" : 66,
+    "name" : "鸦青",
+    "hex" : "#424c50",
+    "green" : 76
+  },
+  {
+    "blue" : 93,
+    "red" : 65,
+    "name" : "黯",
+    "hex" : "#41555d",
+    "green" : 85
+  },
+  {
+    "blue" : 90,
+    "red" : 64,
+    "name" : "草绿",
+    "hex" : "#40de5a",
+    "green" : 222
+  },
+  {
+    "blue" : 231,
+    "red" : 62,
+    "name" : "碧蓝",
+    "hex" : "#3eede7",
+    "green" : 237
+  },
+  {
+    "blue" : 173,
+    "red" : 61,
+    "name" : "翡翠色",
+    "hex" : "#3de1ad",
+    "green" : 225
+  },
+  {
+    "blue" : 79,
+    "red" : 61,
+    "name" : "玄青",
+    "hex" : "#3d3b4f",
+    "green" : 59
+  },
+  {
+    "blue" : 126,
+    "red" : 59,
+    "name" : "藏蓝",
+    "hex" : "#3b2e7e",
+    "green" : 46
+  },
+  {
+    "blue" : 65,
+    "red" : 57,
+    "name" : "乌黑",
+    "hex" : "#392f41",
+    "green" : 47
+  },
+  {
+    "blue" : 32,
+    "red" : 49,
+    "name" : "煤黑",
+    "hex" : "#312520",
+    "green" : 37
+  },
+  {
+    "blue" : 163,
+    "red" : 46,
+    "name" : "玉色",
+    "hex" : "#2edfa3",
+    "green" : 223
+  },
+  {
+    "blue" : 126,
+    "red" : 46,
+    "name" : "藏青",
+    "hex" : "#2e4e7e",
+    "green" : 78
+  },
+  {
+    "blue" : 156,
+    "red" : 42,
+    "name" : "碧绿",
+    "hex" : "#2add9c",
+    "green" : 221
+  },
+  {
+    "blue" : 117,
+    "red" : 33,
+    "name" : "松柏绿",
+    "hex" : "#21a675",
+    "green" : 166
+  },
+  {
+    "blue" : 165,
+    "red" : 27,
+    "name" : "碧色",
+    "hex" : "#1bd1a5",
+    "green" : 209
+  },
+  {
+    "blue" : 176,
+    "red" : 23,
+    "name" : "靛青",
+    "hex" : "#177cb0",
+    "green" : 124
+  },
+  {
+    "blue" : 169,
+    "red" : 22,
+    "name" : "石青",
+    "hex" : "#1685a9",
+    "green" : 133
+  },
+  {
+    "blue" : 81,
+    "red" : 22,
+    "name" : "石绿",
+    "hex" : "#16a951",
+    "green" : 169
+  },
+  {
+    "blue" : 35,
+    "red" : 22,
+    "name" : "漆黑",
+    "hex" : "#161823",
+    "green" : 24
+  },
+  {
+    "blue" : 58,
+    "red" : 14,
+    "name" : "葱倩",
+    "hex" : "#0eb83a",
+    "green" : 184
+  },
+  {
+    "blue" : 58,
+    "red" : 14,
+    "name" : "葱青",
+    "hex" : "#0eb83a",
+    "green" : 184
+  },
+  {
+    "blue" : 24,
+    "red" : 12,
+    "name" : "绿沈",
+    "hex" : "#0c8918",
+    "green" : 137
+  },
+  {
+    "blue" : 68,
+    "red" : 10,
+    "name" : "青葱",
+    "hex" : "#0aa344",
+    "green" : 163
+  },
+  {
+    "blue" : 121,
+    "red" : 6,
+    "name" : "靛蓝",
+    "hex" : "#065279",
+    "green" : 82
+  },
+  {
+    "blue" : 72,
+    "red" : 5,
+    "name" : "松花绿",
+    "hex" : "#057748",
+    "green" : 119
+  },
+  {
+    "blue" : 158,
+    "red" : 0,
+    "name" : "青色",
+    "hex" : "#00e09e",
+    "green" : 224
+  },
+  {
+    "blue" : 121,
+    "red" : 0,
+    "name" : "青翠",
+    "hex" : "#00e079",
+    "green" : 224
+  },
+  {
+    "blue" : 114,
+    "red" : 0,
+    "name" : "花青",
+    "hex" : "#003472",
+    "green" : 52
+  },
+  {
+    "blue" : 113,
+    "red" : 0,
+    "name" : "绀青",
+    "hex" : "#003371",
+    "green" : 51
+  },
+  {
+    "blue" : 18,
+    "red" : 0,
+    "name" : "油绿",
+    "hex" : "#00bc12",
+    "green" : 188
+  },
+  {
+    "blue" : 0,
+    "red" : 0,
+    "name" : "绿色",
+    "hex" : "#00e500",
+    "green" : 229
+  },
+  {
+    "blue" : 0,
+    "red" : 0,
+    "name" : "黑色",
+    "hex" : "#000000",
+    "green" : 0
+  }
+]
