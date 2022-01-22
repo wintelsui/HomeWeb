@@ -1,4 +1,4 @@
 {
   "allKey": [{"aKey": "tops", "name": "精选"}],
-  "tops": [{"name": "中式色卡", "path": "", "icon": ""}]
+  "tops": [{"name": "中式色卡", "path": "/colorCard", "icon": "","query": {"type": "cncolors"}},{"name": "日式色卡", "path": "/colorCard", "icon": "","query": {"type": "jpcolors"}}]
 }

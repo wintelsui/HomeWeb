@@ -1,22 +1,37 @@
 // @vue/component
+
+import TableViewHeader from "@/components/TableViewHeader";
+let otherListCacheDatas = require('../../assets/files/othersList.json')
 export default {
     name: 'Others',
 
-    components: {},
+    components: {TableViewHeader},
 
     mixins: [],
 
     props: {},
 
     data () {
-        return {}
+        return {
+            otherListData: {}
+        }
     },
 
-    computed: {},
+    computed: {
+    },
 
     watch: {},
 
-    created () {},
+    created () {
+        this.otherListData = otherListCacheDatas;
+        console.log(this.otherListData)
+    },
 
-    methods: {}
+    methods: {
+        tableViewSelected(item){
+            if (item.path?.length > 0) {
+                this.$router.push({ path: item.path, query: item.query})
+            }
+        }
+    }
 }

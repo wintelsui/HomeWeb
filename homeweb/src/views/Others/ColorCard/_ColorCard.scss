@@ -1,0 +1,33 @@
+.ColorCard {
+  display: block;
+  overflow: hidden;
+
+  .navigation-bar-inner {
+
+
+    .navigation-bar-middle-item-inner {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: nowrap;
+      align-content: center;
+      justify-content: center;
+      align-items: center;
+
+      .navigation-bar-title {
+        font-size: medium;
+        font-weight: 600;
+        color: #FFFFFF;
+      }
+    }
+
+  }
+
+  .base-view {
+    width: 100%;
+    height: 100%;
+    overflow:scroll;
+    overflow-y:scroll;
+
+
+  }
+}

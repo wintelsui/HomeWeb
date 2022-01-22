@@ -1,8 +1,9 @@
 <template>
   <div id="nav" :style="`height:${navHeight}px;`">
-    <Appnavigationbar style="width: 100%; height: 100%" v-if="navHeight > 0"></Appnavigationbar>
+    <Appnavigationbar style="width: 100%; height: 100%"
+                      v-if="navHeight > 0"></Appnavigationbar>
   </div>
-  <router-view :style="`height: ${contentViewHeight}px;`"/>
+  <router-view id="home-router" :style="`height: ${contentViewHeight}px;`" />
 </template>
 
 
@@ -85,7 +86,7 @@ export default{
 }
 
 #nav {
-  height: 70px;
+  height: 44px;
 }
 
 #nav a {
@@ -96,4 +97,56 @@ export default{
 #nav a.router-link-exact-active {
   color: #42b983;
 }
+
+#home-router {
+  margin-top: 0px;
+}
+
+.navigation-bar-normal {
+  width: 100%;
+  height: 44px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: #3b2e7e;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navigation-bar-fake {
+  width: 100%;
+  height: 44px;
+}
+
+.navigation-bar-left-item {
+  margin-left: 14px;
+  width: 44px;
+  height: 44px;
+}
+
+.navigation-bar-right-item {
+  margin-right: 14px;
+  width: 44px;
+  height: 44px;
+}
+
+.navigation-bar-middle-item {
+  height: 44px;
+}
+
+.navigation-bar-item {
+  height: 44px;
+  width: 44px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
 </style>

@@ -39,6 +39,7 @@ export default {
       },
       itemWidth: {
         type: Number,
+        // eslint-disable-next-line vue/require-valid-default-prop
         default: 100,
       },
       itemList: {
